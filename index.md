@@ -1,3 +1,13 @@
+[![name](https://github.com/steenblikrs/2021-Spring-Studio/blob/main/substrateBW1000.jpg)](http://phi.archi/)
+
+# Studio Mckay & Steenblik
+
+# Spring 2021 Spring
+
+# Wenzhou-Kean University
+
+[![name](link to image on GH)](link to your URL)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/steenblikrs/2021-Spring-Studio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
