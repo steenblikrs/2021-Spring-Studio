@@ -10,7 +10,7 @@ This is an ambitious studio looking at the ground up or purpose-built Capital ci
 
  
 
-### Purpose-built Capitals
+### Purpose-built Cities or Capitals
 
 **China:**
 
@@ -18,7 +18,35 @@ The Great Capital Cities of China:
 
 Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wikipedia.org/wiki/Jing-Jin-Ji) Economic zone.
 
-**Other Capitals to consider** [(see wiki list exhaustive list)](https://en.wikipedia.org/wiki/List_of_purpose-built_national_capitals)
+**Other Capitals to consider** [(see wiki for exhaustive list)](https://en.wikipedia.org/wiki/List_of_purpose-built_national_capitals)
+
+possibly a conceptual city of your choice
+
+### Theoretical Aspects of the City
+
+[The why factory](https://thewhyfactory.com/project/)
+
+### Technical Aspects of the City
+
+[See the wiki](https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning)
+
+
+
+### Technology Proof of Concepts
+
+[Projection Mapping](https://www.proof-inc.com/project/moma-new-city)
+
+[XR (AR / VR)](https://www.dezeen.com/tag/augmented-reality/)
+
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//live.staticflickr.com/65535/50744510732_f688807758_6k.jpg&autoLoad=true"></iframe>
+
+If you are trying to display an environment try a photosphere export from your 3D modeling software try using something like [Pannellum](https://pannellum.org) they have a simple utility for viewing creating them [here](https://pannellum.org/documentation/overview/tutorial/)
+
+<iframe src='https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/' frameborder='0' width='100%' height='200%'></iframe>
+Or if you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/) If you click on [this](https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/) link you can view it full screen on your phone
+
+
+
 
 
 ### Themes to consider
@@ -35,17 +63,4 @@ Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wi
 
 [Minimal Surfaces](https://www.ams.org/journals/notices/201704/rnoti-p347.pdf)
 
-
-### Technology Proof of Concepts
-
-(to be removed after use)
-
-[Projection Mapping](https://www.proof-inc.com/project/moma-new-city)
-
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//live.staticflickr.com/65535/50744510732_f688807758_6k.jpg&autoLoad=true"></iframe>
-
-If you are trying to display an environment try a photosphere export from your 3D modeling software try using something like [Pannellum](https://pannellum.org) they have a simple utility for viewing creating them [here](https://pannellum.org/documentation/overview/tutorial/)
-
-<iframe src='https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/' frameborder='0' width='100%' height='200%'></iframe>
-Or if you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/) If you click on [this](https://www.proof-inc.com/project/moma-new-city) link you can view it full screen on your phone
 
