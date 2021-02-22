@@ -1,3 +1,9 @@
+---
+title: Tech Page
+layout: jekyll-theme-minimal
+filename: Techproof.md
+--- 
+
 Use [this realtime markdown editor](https://jbt.github.io/markdown-editor/) for easyer editing to be pasted into the real file on github.
 
 ### Samples Markdown for your reference
