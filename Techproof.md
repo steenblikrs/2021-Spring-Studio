@@ -1,4 +1,4 @@
-use this realtime markdown editor for easyer editing to be pasted into the real file on github
+Use [this realtime markdown editor](https://jbt.github.io/markdown-editor/) for easyer editing to be pasted into the real file on github.
 
 ### Samples Markdown for your reference
 
