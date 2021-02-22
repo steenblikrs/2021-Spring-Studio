@@ -1,4 +1,4 @@
-# Studio McKay & Steenblik
+# Studio McKay | Steenblik
 
 
 ## Virtual Traveling Studio - [The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch)
@@ -27,11 +27,13 @@ Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wi
 
 [Procedural, Computational Urbanism](https://wzku-my.sharepoint.com/:f:/g/personal/spencers_wku_edu_cn/Ep7b-_T1aR5KgRI9JAEB4xkBkn_81T5dKFXSxKOMhgjQIQ?e=MweGxv)
 
-Language based Architecture
+[Language based Architecture](https://www.architectural-review.com/essays/interview-peter-eisenman?utm_medium=website&utm_source=archdaily.com)
 
-Mobile architecture
+[Mobile architecture](https://www.google.com/search?q=walking+city&source=lmns&bih=735&biw=1536&safe=active&hl=en&sa=X&ved=2ahUKEwju8cCazPzuAhXLi-AKHdiJDi4Q_AUoAHoECAEQAA)
 
-Brainspace See Disney’s Inside Out
+[Brainspace](https://www.livescience.com/5674-brain-organized-city.html)
+
+[Minimal Surfaces](https://www.google.com/search?safe=active&biw=1536&bih=792&sxsrf=ALeKk00fnY1V_uuVcGcViB_YDAEYZFEypg%3A1613967598509&ei=7jAzYO_IHom-ggeY0LGwDA&q=minimal+surfaces&oq=minimal+surfaces&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECcyAggAMgIIADICCAAyAgguMgIIADICCAAyAggAOgcIIxCwAxAnOgQIABBDOgUIABCRAjoLCC4QsQMQxwEQowI6DgguELEDEIMBEMcBEKMCOgUIABCxAzoKCC4QxwEQrwEQQzoHCAAQsQMQQzoHCC4QsQMQQzoICAAQsQMQyQM6BQgAEJIDOgUILhCxAzoICAAQsQMQgwE6BwgAEIcCEBRQ1dEDWLXmA2DQ7QNoA3AAeACAAbwCiAGqJpIBBjItMTUuMpgBAKABAaoBB2d3cy13aXrIAQHAAQE&sclient=gws-wiz&ved=0ahUKEwjv94zr0fzuAhUJn-AKHRhoDMY4ChDh1QMIDQ&uact=5)
 
 
 ### Technology Proof of Concepts
