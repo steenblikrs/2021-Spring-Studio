@@ -1,3 +1,11 @@
+---
+title: Home
+layout: template
+filename: index.md
+--- 
+
+
+
 # Studio McKay | Steenblik
 
 
