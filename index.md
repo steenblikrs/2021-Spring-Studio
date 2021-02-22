@@ -40,7 +40,7 @@ Brainspace See Disney’s Inside Out
 
 Here is a proof of concept of some of the technologies I hope you can use during the semester.
 
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https://live.staticflickr.com/65535/50744510732_f688807758_6k.jpg"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;"src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https://live.staticflickr.com/65535/50744510732_f688807758_6k.jpg"></iframe>
 
 Or if you are trying to display an environment try a photosphere export from your 3D modeling software try using something like [Pannellum](https://pannellum.org) they have a simple utility for viewing creating them [here](https://pannellum.org/documentation/overview/tutorial/)
 
