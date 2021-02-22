@@ -1,6 +1,6 @@
 ---
 
-Technology Proof of Concepts
+title: Technology Proof of Concepts
 
 ---
 
