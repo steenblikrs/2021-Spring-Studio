@@ -1,1 +1,5 @@
 {{ content }}
+
+{% for page in site.pages %}
+    <a href={{ index.md }}>{{ index.home }}</a>
+{% endfor %}
