@@ -5,7 +5,6 @@ filename: index.md
 --- 
 
 
-
 # Studio McKay | Steenblik
 
 
@@ -78,3 +77,4 @@ Or if you are trying to display objects (not an environment) try a tool such as 
 [Minimal Surfaces](https://www.ams.org/journals/notices/201704/rnoti-p347.pdf)
 
 
+[Test](https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Techproof.md)
