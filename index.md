@@ -20,7 +20,7 @@ Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wi
 
 **Other Capitals to consider** [(see wiki for exhaustive list)](https://en.wikipedia.org/wiki/List_of_purpose-built_national_capitals)
 
-possibly a conceptual city of your choice
+possibly a conceptual city of your choice (refer to Graham's Lecture)
 
 ### Theoretical Aspects of the City
 
@@ -29,6 +29,14 @@ possibly a conceptual city of your choice
 ### Technical Aspects of the City
 
 [See the wiki](https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning)
+
+
+/
+/
+/
+/
+/
+
 
 
 
