@@ -1,3 +1,5 @@
+use this realtime markdown editor for easyer editing to be pasted into the real file on github
+
 ### Samples Markdown for your reference
 
 You can use the [editor on GitHub](https://github.com/steenblikrs/2021-Spring-Studio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
