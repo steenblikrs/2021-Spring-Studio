@@ -31,14 +31,12 @@ possibly a conceptual city of your choice (refer to Graham's Lecture)
 [See the wiki](https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning)
 
 
-/
-/
-/
-/
-/
-
-
-
+\
+\
+\
+\
+\
+\
 
 ### Technology Proof of Concepts
 
