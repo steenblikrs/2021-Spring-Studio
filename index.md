@@ -1,22 +1,60 @@
-[![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/main/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](https://www.phi.archi/)
+# Studio McKay & Steenblik
 
 
-# Studio Mckay & Steenblik
+## Virtual Traveling Studio - [The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch)
+Wenzhou-Kean University
 
-### Wenzhou-Kean University - Spring 2021 Spring 
+[![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/main/substrateBW1000.jpg?raw=true "Complex Urban Fabric")]()
+
+This is an ambitious studio looking at the ground up or purpose-built Capital city. This is intended to be a traveling studio. Due to the global pandemic (even with the situation relatively under control), we have been limited on our ability to travel to any notable extent. As an opportunity to opportunity to look beyond the physical world for opportunities to travel - we have resorted to virtual travel. In turn we will be resorting to virtual explorations, and thus documentation as an outlet for our creative efforts. With this in mind please find the information below as a reference:
+
+ 
+
+### Purpose-built Capitals
+
+**China:**
+
+The Great Capital Cities of China:
+
+Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wikipedia.org/wiki/Jing-Jin-Ji) Economic zone.
+
+**Other Capitals to consider** [(see wiki list exhaustive list)](https://en.wikipedia.org/wiki/List_of_purpose-built_national_capitals)
 
 
-<iframe src='https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/' frameborder='0' width='100%' height='100%'></iframe>
+### Themes to consider
+
+[Glitch](https://wzku-my.sharepoint.com/:f:/g/personal/spencers_wku_edu_cn/ErMYnlxCGqxAoEOqAKErb3oBvBLz57JDlNtO4pAzI11jBA?e=NDgPJe)
+
+[Procedural, Computational Urbanism](https://wzku-my.sharepoint.com/:f:/g/personal/spencers_wku_edu_cn/Ep7b-_T1aR5KgRI9JAEB4xkBkn_81T5dKFXSxKOMhgjQIQ?e=MweGxv)
+
+Language based Architecture
+
+Mobile architecture
+
+Brainspace See Disney’s Inside Out
+
+
+### Technology Proof of Concepts
+
+(to be removed after use)
+
+Here is a proof of concept of some of the technologies I hope you can use during the semester.
+
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https://live.staticflickr.com/65535/50744510732_f688807758_6k.jpg"></iframe>
+
+Or if you are trying to display an environment try a photosphere export from your 3D modeling software try using something like [Pannellum](https://pannellum.org) they have a simple utility for viewing creating them [here](https://pannellum.org/documentation/overview/tutorial/)
+
+<iframe src='https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/' frameborder='0' width='100%' height='200%'></iframe>
+If you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/)
 
 
 
 
 
+### Samples Markdown for your reference
 
 
 
-
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/steenblikrs/2021-Spring-Studio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
