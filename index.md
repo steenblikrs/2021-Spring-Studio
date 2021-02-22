@@ -33,7 +33,7 @@ Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wi
 
 [Brainspace](https://www.livescience.com/5674-brain-organized-city.html)
 
-[Minimal Surfaces](https://www.google.com/search?safe=active&biw=1536&bih=792&sxsrf=ALeKk00fnY1V_uuVcGcViB_YDAEYZFEypg%3A1613967598509&ei=7jAzYO_IHom-ggeY0LGwDA&q=minimal+surfaces&oq=minimal+surfaces&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECcyAggAMgIIADICCAAyAgguMgIIADICCAAyAggAOgcIIxCwAxAnOgQIABBDOgUIABCRAjoLCC4QsQMQxwEQowI6DgguELEDEIMBEMcBEKMCOgUIABCxAzoKCC4QxwEQrwEQQzoHCAAQsQMQQzoHCC4QsQMQQzoICAAQsQMQyQM6BQgAEJIDOgUILhCxAzoICAAQsQMQgwE6BwgAEIcCEBRQ1dEDWLXmA2DQ7QNoA3AAeACAAbwCiAGqJpIBBjItMTUuMpgBAKABAaoBB2d3cy13aXrIAQHAAQE&sclient=gws-wiz&ved=0ahUKEwjv94zr0fzuAhUJn-AKHRhoDMY4ChDh1QMIDQ&uact=5)
+[Minimal Surfaces](https://www.ams.org/journals/notices/201704/rnoti-p347.pdf)
 
 
 ### Technology Proof of Concepts
