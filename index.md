@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: template
+layout: jekyll-theme-minimal
 filename: index.md
 --- 
 
