@@ -1,4 +1,4 @@
-layout: jekyll-theme-minimal
+layout: minimal
 title: "Techproof"
 permalink: https://steenblikrs.github.io/2021-Spring-Studio/Techproof
 
