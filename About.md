@@ -1,11 +1,3 @@
----
-
-layout: minimal
-title: "About"
-permalink: https://steenblikrs.github.io/2021-Spring-Studio/About
-
----
-
 ## Introduction
 
 <br/>
@@ -20,3 +12,12 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 
 ## Students
 
+
+
+
+
+
+
+layout: minimal
+title: "About"
+permalink: https://steenblikrs.github.io/2021-Spring-Studio/About
