@@ -1,8 +1,7 @@
----
-title: Tech Page
 layout: jekyll-theme-minimal
-filename: Techproof.md
---- 
+title: "Techproof"
+permalink: https://steenblikrs.github.io/2021-Spring-Studio/Techproof
+
 
 Use [this realtime markdown editor](https://jbt.github.io/markdown-editor/) for easyer editing to be pasted into the real file on github.
 
