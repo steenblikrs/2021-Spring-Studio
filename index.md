@@ -3,8 +3,8 @@
 # Studio McKay | Steenblik
 
 
-## Virtual Traveling Studio - [The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch)
-Wenzhou-Kean University
+## Virtual Traveling Studio
+## [The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch) ###Wenzhou-Kean University
 
 [![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/main/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net/gallery/machines/substrate/)
 
