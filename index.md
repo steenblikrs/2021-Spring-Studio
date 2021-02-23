@@ -6,7 +6,7 @@
 ## Virtual Traveling Studio - [The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch)
 Wenzhou-Kean University
 
-[![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/main/substrateBW1000.jpg?raw=true "Complex Urban Fabric")]()
+[![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/main/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net/gallery/machines/substrate/)
 
 This is an ambitious studio looking at the ground up or purpose-built Capital city. This is intended to be a traveling studio. Due to the global pandemic (even with the situation relatively under control), we have been limited on our ability to travel to any notable extent. As an opportunity to opportunity to look beyond the physical world for opportunities to travel - we have resorted to virtual travel. In turn we will be resorting to virtual explorations, and thus documentation as an outlet for our creative efforts. With this in mind please find the information below as a reference:
 
