@@ -1,8 +1,3 @@
----
-title: Home
-layout: jekyll-theme-minimal
-filename: index.md
---- 
 
 
 # Studio McKay | Steenblik
