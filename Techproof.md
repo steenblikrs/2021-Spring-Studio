@@ -1,6 +1,4 @@
-layout: minimal
-title: "Techproof"
-permalink: https://steenblikrs.github.io/2021-Spring-Studio/Techproof
+
 
 
 Use [this realtime markdown editor](https://jbt.github.io/markdown-editor/) for easyer editing to be pasted into the real file on github.
@@ -42,3 +40,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+layout: minimal
+title: "Techproof"
+permalink: https://steenblikrs.github.io/2021-Spring-Studio/Techproof
