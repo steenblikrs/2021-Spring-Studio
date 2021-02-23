@@ -8,7 +8,7 @@
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
 School of Public Architecture](http://design.wku.edu.cn/)<br/>
 
-**[Theoretical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Theory) | [Technical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Technical) | [About](https://steenblikrs.github.io/2021-Spring-Studio/About)** <br/>
+**[Theoretical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Theory)** | **[Technical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Technical)** | **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**  <br/>
 
 [![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net/gallery/machines/substrate/)
 
