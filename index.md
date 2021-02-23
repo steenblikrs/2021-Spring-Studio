@@ -8,7 +8,7 @@
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
 School of Public Architecture](http://design.wku.edu.cn/)<br/>
 
-**[Theoretical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Theory)** | **[Technical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Technical)** | **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**  <br/>
+**[Theoretical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Theory.md)** | **[Technical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Technical.md)** | **[About](https://steenblikrs.github.io/2021-Spring-Studio/About.md)**  <br/>
 
 [![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net/gallery/machines/substrate/)
 
@@ -73,4 +73,4 @@ Or if you are trying to display objects (not an environment) try a tool such as 
 
 
 
-[Here is a reference file that will help you understand the basic syntax of markdown](https://steenblikrs.github.io/2021-Spring-Studio/Techproof)
+[Here is a reference file that will help you understand the basic syntax of markdown](https://steenblikrs.github.io/2021-Spring-Studio/Techproof.md)
