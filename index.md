@@ -72,4 +72,4 @@ Or if you are trying to display objects (not an environment) try a tool such as 
 [Minimal Surfaces](https://www.ams.org/journals/notices/201704/rnoti-p347.pdf)
 
 
-[Test]<a href="Techproof.md">Techproof</a>
+[Test]<a href="2021-Spring-Studio/Techproof.md">Techproof</a>
