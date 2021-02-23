@@ -9,13 +9,13 @@ Wenzhou-Kean University \
 Michael Graves College \
 School of Public Architecture \
 
-[![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/main/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net/gallery/machines/substrate/)
+[![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net/gallery/machines/substrate/)
 
 This is an ambitious studio looking at the ground up or purpose-built Capital city. This is intended to be a traveling studio. Due to the global pandemic (even with the situation relatively under control), we have been limited on our ability to travel to any notable extent. As an opportunity to opportunity to look beyond the physical world for opportunities to travel - we have resorted to virtual travel. In turn we will be resorting to virtual explorations, and thus documentation as an outlet for our creative efforts. With this in mind please find the information below as a reference:
 
  
 
-### Purpose-built Cities or Capitals
+### Purpose-built Cities focusing on Capitals
 
 **China:**
 
@@ -35,13 +35,8 @@ possibly a conceptual city of your choice (refer to Graham's Lecture)
 
 [See the wiki](https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning)
 
-
-\
-\
-\
-\
-\
-
+  
+  <br/><br/><br/><br/> <!-- These are line breaks -->
 
 ### Technology Proof of Concepts
 

@@ -1,0 +1,17 @@
+---
+
+layout: minimal
+title: "About"
+permalink: https://steenblikrs.github.io/2021-Spring-Studio/About
+
+---
+
+## Introduction
+
+<br/>
+
+Graham MaKay and R. Spencer Steenblik have been running the 3rd year architecture studio for the 2020 academic year. This includes a fall studio focused on complex projects. This spring studio is focused on urban environments. As an overview of all who are involved in the studio below is a short introduction to the whole team.
+
+### [Graham MaKay](https://misfitsarchitecture.com/)
+
+### [R. Spencer Steenblik](http://phi.archi/)
