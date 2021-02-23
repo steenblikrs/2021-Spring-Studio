@@ -8,69 +8,17 @@
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
 School of Public Architecture](http://design.wku.edu.cn/)<br/>
 
-**[Theoretical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Theory)** | **[Technical Considerations](https://steenblikrs.github.io/2021-Spring-Studio/Technical)** | **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**  <br/>
+**[Research](https://steenblikrs.github.io/2021-Spring-Studio/Theory)** | **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Technical)** | **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**  <br/>
 
-[![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net/gallery/machines/substrate/)
+[![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net)
 
-This is an ambitious studio looking at the ground up or purpose-built Capital city. This is intended to be a traveling studio. Due to the global pandemic (even with the situation relatively under control), we have been limited on our ability to travel to any notable extent. As an opportunity to opportunity to look beyond the physical world for opportunities to travel - we have resorted to virtual travel. In turn we will be resorting to virtual explorations, and thus documentation as an outlet for our creative efforts. With this in mind please find the information below as a reference:
+This is an ambitious studio looking at the ground up or purpose-built Capital city. This is intended to be a traveling studio. Due to the global pandemic (even with the situation relatively under control), we have been limited on our ability to travel to any notable extent. As an opportunity to look beyond the physical world for opportunities to travel - we have resorted to virtual travel. In turn we will be resorting to virtual explorations, and thus documentation as an outlet for our creative efforts.
 
+We will be considering historic, technical, theoretical aspects of purpose built cities. Throughout time many cities have been premeditated, purpose built, planned cities. As we live with globalization and the rural flight, we are seeing much more of a precedent for ground up, purpose built or planned cities. Particularly in Asia and China specifically. We have seen Special Economic Zones announced throughout the recent past. Some of these have been less successful than others, yet we do see the overwhelming and unignorable successes of others, such as Shenzhen, etc. But China also has a long history of emperor decreed cities rising out of the designated plot of land, and China is not alone in this act. Recently we have seen several successful examples in the middle east, including the current effort in Egypt (The new administrative capital
+
+Even the cliche statement: “form follow function” still holds significant merit due to the fact that it is almost futile to attempt to consider form with the challenges of the function demanding consideration. It is for this reason that a large focus will be put on the technical aspects of the city. One key element of focus for the studio is the mundane need to integrate housing into the solution set for any urban condition. Yet these are not the only technical aspects we are interested in covering. Conceptions such as Arcology or more concrete instantiations such as Mazdar have taken on the impact of human development on “spaceship earth”. Thus sustainability will be an important part of the studios objectives and foci.
+
+Much of what drives design are performative aspects of the outcomes, yet if we are only driven by the utilitarian requirements, we will never allow ourselves the opportunity to imagine alternatives. By pushing beyond what is possible we enable new possibilities for the future. This can be referred to as the development of possible futures. This studio builds on the heritage of the digital studios pioneered by Bernard Tschumi. We see the legacy of that effort going on to create such projects as the digital Guggenhiem, New City, and has even influenced holywood world building see examples from Alex McDowell and the World Building Media Lab at the University of Southern California. Yet this is not the only lineage of computation influencing the future of urban conceptions. We have seen particularly in the last ten year the influence of computational methods such as parametric, procedural, and machine learning rework the possibilities of creativity to incorporate computation as a collaborator. Beyond those technical aspects driving creativity and innovation there are other stirrings including more cultural ones such as the post-digital movement which has worked to flatten and colorize predominant conceptions of our future.
  
 
-### Purpose-built Cities focusing on Capitals
 
-**China:**
-
-The Great Capital Cities of China:
-
-Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wikipedia.org/wiki/Jing-Jin-Ji) Economic zone.
-
-**Other Capitals to consider** [(see wiki for exhaustive list)](https://en.wikipedia.org/wiki/List_of_purpose-built_national_capitals)
-
-possibly a conceptual city of your choice (refer to Graham's Lecture)
-
-### Theoretical Aspects of the City
-
-[The why factory](https://thewhyfactory.com/project/)
-
-### Technical Aspects of the City
-
-[See the wiki](https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning)
-
-  
-  <br/><br/><br/><br/> <!-- These are line breaks -->
-
-### Technology Proof of Concepts
-
-[Projection Mapping](https://www.proof-inc.com/project/moma-new-city)
-
-[XR (AR / VR)](https://www.dezeen.com/tag/augmented-reality/)
-
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//live.staticflickr.com/65535/50744510732_f688807758_6k.jpg&autoLoad=true"></iframe>
-
-If you are trying to display an environment try a photosphere export from your 3D modeling software try using something like [Pannellum](https://pannellum.org) they have a simple utility for viewing creating them [here](https://pannellum.org/documentation/overview/tutorial/)
-
-<iframe src='https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/' frameborder='0' width='100%' height='200%'></iframe>
-Or if you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/) If you click on [this](https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/) link you can view it full screen on your phone
-
-
-
-
-
-### Themes to consider
-
-[Glitch](https://wzku-my.sharepoint.com/:f:/g/personal/spencers_wku_edu_cn/ErMYnlxCGqxAoEOqAKErb3oBvBLz57JDlNtO4pAzI11jBA?e=NDgPJe)
-
-[Procedural, Computational Urbanism](https://wzku-my.sharepoint.com/:f:/g/personal/spencers_wku_edu_cn/Ep7b-_T1aR5KgRI9JAEB4xkBkn_81T5dKFXSxKOMhgjQIQ?e=MweGxv)
-
-[Language based Architecture](https://www.architectural-review.com/essays/interview-peter-eisenman?utm_medium=website&utm_source=archdaily.com)
-
-[Mobile architecture](https://www.google.com/search?q=walking+city&source=lmns&bih=735&biw=1536&safe=active&hl=en&sa=X&ved=2ahUKEwju8cCazPzuAhXLi-AKHdiJDi4Q_AUoAHoECAEQAA)
-
-[Brainspace](https://www.livescience.com/5674-brain-organized-city.html)
-
-[Minimal Surfaces](https://www.ams.org/journals/notices/201704/rnoti-p347.pdf)
-
-
-
-
-[Here is a reference file that will help you understand the basic syntax of markdown](https://steenblikrs.github.io/2021-Spring-Studio/Techproof)
