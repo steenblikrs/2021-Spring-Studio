@@ -1,8 +1,6 @@
 ## Introduction
-
 <br/>
-
-Graham MaKay and R. Spencer Steenblik have been running the 3rd year architecture studio for the 2020 academic year. This includes a fall studio focused on complex projects. This spring studio is focused on urban environments. As an overview of all who are involved in the studio below is a short introduction to the whole team. This effort is a part of and is sponsoured by and the [Wenzhou-Kean University Public Architecture and Design Research Institute.]()
+Graham MaKay and R. Spencer Steenblik have been running the 3rd year architecture studio for the 2020 academic year. This includes a fall studio focused on complex projects. This spring studio is focused on urban environments. As an overview of all who are involved in the studio below is a short introduction to the whole team. This effort is a part of and sponsored by the [Wenzhou-Kean University Public Architecture and Design Research Institute.]()
 
 ## Professors
 
@@ -13,7 +11,7 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 ## Students
 
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
