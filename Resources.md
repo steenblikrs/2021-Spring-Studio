@@ -1,6 +1,6 @@
 ## [Studio Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
 
-### Purpose-built Cities focusing on Capitals (History)
+### Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals (History)
 
 **China:**
 
@@ -10,8 +10,12 @@ Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wi
 
 **Other Capitals to consider** [(see wiki for exhaustive list)](https://en.wikipedia.org/wiki/List_of_purpose-built_national_capitals)
 
-possibly a conceptual city of your choice (refer to Graham's Lecture)
+possibly a conceptual city of your choice (refer to [Graham's Lecture](https://wzku-my.sharepoint.com/:p:/g/personal/spencers_wku_edu_cn/Ef8kvp_pswtLrq6gnCfDbvMBqWIf2zUj70-EfYZ24Ip0ww?e=GNNJl3))
 
+
+### Technical Aspects of the City
+
+[See the wiki](https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning)
 
 
 ### Theory and City Inspiration 
@@ -34,10 +38,12 @@ possibly a conceptual city of your choice (refer to Graham's Lecture)
 
 [Minimal Surfaces](https://www.ams.org/journals/notices/201704/rnoti-p347.pdf)
 
+**Other Inspiration**
 
-### Technical Aspects of the City
+[Conceving of City through the eyes of its citizens](https://www.sciarc.edu/academics/postgraduate/fiction-and-entertainment)
 
-[See the wiki](https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning)
+
+
 
   
   <br/><br/><br/><br/> <!-- These are line breaks -->
@@ -58,9 +64,11 @@ If you are trying to display an environment try a photosphere export from your 3
 Or if you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/) If you click on [this](https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/) link you can view it full screen on your phone
 
 
+[Toi-peida Tutorials](http://wiki.bk.tudelft.nl/toi-pedia/Browse_by_Software)
 
-
-
+**Video Game Engines**
+[Unity](https://unity.com/)
+[Unigine](https://unigine.com/)
 
 
 [Here is a reference file that will help you understand the basic syntax of markdown](https://steenblikrs.github.io/2021-Spring-Studio/Techproof)
