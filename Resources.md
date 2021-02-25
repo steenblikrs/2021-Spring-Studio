@@ -40,7 +40,7 @@ possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 
 **Other Inspiration**
 
-[Conceving of City through the eyes of its citizens and narrative](https://www.sciarc.edu/academics/postgraduate/fiction-and-entertainment)
+[Conceving cities through its' citizens and narrative](https://www.sciarc.edu/academics/postgraduate/fiction-and-entertainment)
 
 [Imaginary Cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
 
