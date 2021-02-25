@@ -1,4 +1,4 @@
-## [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
+## [Studio Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
 
 ### Purpose-built Cities focusing on Capitals (History)
 
@@ -14,7 +14,7 @@ possibly a conceptual city of your choice (refer to Graham's Lecture)
 
 
 
-### Theoretical Aspects of the City
+### Theory and City Inspiration 
 
 [The why factory](https://thewhyfactory.com/project/)
 
@@ -41,6 +41,8 @@ possibly a conceptual city of your choice (refer to Graham's Lecture)
 
   
   <br/><br/><br/><br/> <!-- These are line breaks -->
+
+## [Representation Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
 
 ### Technology Proof of Concepts
 
