@@ -1,4 +1,4 @@
-## [Studio Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
+## Studio [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
 
 ### Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals (History)
 
@@ -40,7 +40,7 @@ possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 
 **Other Inspiration**
 
-[Conceving of City through the eyes of its citizens](https://www.sciarc.edu/academics/postgraduate/fiction-and-entertainment)
+[Conceving of City through the eyes of its citizens and narrative](https://www.sciarc.edu/academics/postgraduate/fiction-and-entertainment)
 
 [Imaginary Cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
 
@@ -49,29 +49,47 @@ possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
   
   <br/><br/><br/><br/> <!-- These are line breaks -->
 
-## [Representation Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
+## Representation - Digital Lexicons [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
 
-### Technology Proof of Concepts
+**Github/Markdown**
 
-[Projection Mapping](https://www.proof-inc.com/project/moma-new-city)
 
-[XR (AR / VR)](https://www.dezeen.com/tag/augmented-reality/)
+**ML / AI**
+
+
+**Photogrammetry**
+
+
+**Video Game Engines**<br/>
+[Unity](https://unity.com/)<br/>
+[Unigine](https://unigine.com/)
+
+**Animation**
+
+
+**Photospheres / GIF**
+
 
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//live.staticflickr.com/65535/50744510732_f688807758_6k.jpg&autoLoad=true"></iframe>
 
 If you are trying to display an environment try a photosphere export from your 3D modeling software try using something like [Pannellum](https://pannellum.org) they have a simple utility for viewing creating them [here](https://pannellum.org/documentation/overview/tutorial/)
 
 <iframe src='https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/' frameborder='0' width='100%' height='200%'></iframe>
-Or if you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/) If you click on [this](https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/) link you can view it full screen on your phone
+Or if you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/) If you click on [this](https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/) link you can view it full screen on your phone<br/><br/>
+
+
+**[XR (AR / VR)](https://www.dezeen.com/tag/augmented-reality/)**
+
+**Real Fake (Premiere/After Effects)**
+
+**[Projection Mapping](https://www.proof-inc.com/project/moma-new-city)**
+
+
+
 
 
 [Toi-peida Tutorials](http://wiki.bk.tudelft.nl/toi-pedia/Browse_by_Software)
 
-**Video Game Engines**
-
-[Unity](https://unity.com/)
-
-[Unigine](https://unigine.com/)
 
 
 [Here is a reference file that will help you understand the basic syntax of markdown](https://steenblikrs.github.io/2021-Spring-Studio/Techproof)
