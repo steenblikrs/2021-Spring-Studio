@@ -42,6 +42,7 @@ possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 
 [Conceving of City through the eyes of its citizens](https://www.sciarc.edu/academics/postgraduate/fiction-and-entertainment)
 
+[Imaginary Cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
 
 
 
@@ -67,7 +68,9 @@ Or if you are trying to display objects (not an environment) try a tool such as 
 [Toi-peida Tutorials](http://wiki.bk.tudelft.nl/toi-pedia/Browse_by_Software)
 
 **Video Game Engines**
+
 [Unity](https://unity.com/)
+
 [Unigine](https://unigine.com/)
 
 
