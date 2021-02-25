@@ -77,7 +77,7 @@ If you are trying to display an environment try a photosphere export from your 3
 <iframe src='https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/' frameborder='0' width='100%' height='200%'></iframe>
 Or if you are trying to display objects (not an environment) try a tool such as [Spline Design](https://spline.design/) If you click on [this](https://my.spline.design/untitled-698fdc3c510a9737202576ebe15c34bf/) link you can view it full screen on your phone
 
-[![Dalzen Residence](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages//assets/Organic01W.gif "Dalzen Residence")]()
+[![Dalzen Residence](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages//assets/Organic01W.gif?raw=true"Dalzen Residence")]()
 
 <br/>
 
