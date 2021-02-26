@@ -22,5 +22,7 @@ Yet when considering purpose built cities, should we only consider built ones? C
 
 Much of what drives design are performative aspects of the outcomes, yet if we are only driven by the utilitarian requirements, we will never allow ourselves the opportunity to imagine alternatives. By pushing beyond what is possible we enable new possibilities for the future. This can be referred to as the development of possible futures. This studio builds on the heritage of the digital studios pioneered by Bernard Tschumi. We see the legacy of that effort going on to create such projects as the digital Guggenheim, New City, and has even influenced Hollywood world building see examples from Alex McDowell and the World Building Media Lab at the University of Southern California. Yet this is not the only lineage of computation influencing the future of urban conceptions. We have seen, particularly in the last ten years, the influence of computational methods such as parametric, procedural, and machine learning rework the possibilities of creativity to incorporate computation as a collaborator. Beyond those technical aspects driving creativity and innovation there are other stirrings including more cultural ones such as the post-digital movement which has worked to flatten and colorize predominant conceptions of our future.
 
+hello
+
  
 
