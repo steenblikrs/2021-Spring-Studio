@@ -9,7 +9,7 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 ### [R. Spencer Steenblik](https://steenblikrs.github.io/2021-Spring-Studio/Steenblik)
 
 ## Students
-
+A wave of zombies is approaching
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
