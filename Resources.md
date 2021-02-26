@@ -49,7 +49,7 @@ possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
   
   <br/><br/><br/><br/> <!-- These are line breaks -->
 
-## Representation - Digital Lexicons [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
+## Representation - Digital Lexicons [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html)
 
 **Github/Markdown**
 
