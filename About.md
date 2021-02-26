@@ -13,7 +13,7 @@ A wave of zombies is approaching
 and lancelot said that his brain is very delicious 
 # jeremy will taste it firstly
 # Then Huey Follows
-Jeremy says he will split it with you
+Jeremy says he will split it with huey
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
