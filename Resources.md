@@ -49,7 +49,7 @@ possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
   
   <br/><br/><br/><br/> <!-- These are line breaks -->
 
-## Representation - Digital Lexicons [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html)
+## Representation - A Digital Lexicon [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html)
 
 **Grasshopper** [(General Tutorial)](https://kean-edu.zoom.us/rec/share/RKNLQYQu6KcwaTWdO5uN-IjPCdeNsK0QpmfLH1t8hMnLJ-YmPUtb5xBFkyvKLeY.Jv5RHYU-MHv-1p12?startTime=1614405732000), [(Kangaroo Tutorial)](https://kean-edu.zoom.us/rec/share/g7yWFRbOKFmnFVWBWqfuxmHt20XIg4Fg73QLxA6aGbQwGSweWkonUg0DCtv7-m55.8nZYOOGZ9Ki4N_Kr?startTime=1614410919000)
 
