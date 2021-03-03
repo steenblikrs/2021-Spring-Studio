@@ -1,4 +1,3 @@
-# Cai Nuoying
 
 layout: minimal
 title: "Student"
