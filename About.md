@@ -16,8 +16,17 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 [Corina]()
 <br/>
 [Flora]()
+<br/>
+[Rachel]()
+<br/>
+[Kristen]()
 
 
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 layout: minimal
 title: "About"
