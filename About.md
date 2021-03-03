@@ -9,11 +9,7 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 ### [R. Spencer Steenblik](https://steenblikrs.github.io/2021-Spring-Studio/Steenblik)
 
 ## Students
-A wave of zombies is approaching
-and lancelot said that his brain is very delicious 
-# jeremy will taste it firstly
-# Then Huey Follows
-Jeremy says he will split it with huey
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
