@@ -11,7 +11,9 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 ## Students
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
+Carol
+Corina
+Flora
 
 
 
