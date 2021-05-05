@@ -1,11 +1,10 @@
 # Yao Yuning | Lyla
+#### [PERSONAL WEBPAGE](https://yuning-yao.github.io/Architecture-Profolio/)
 ## Personal Introduction
   <img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Lyla/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210305092139.jpg?raw=true" width="300">
   
   A junior student from [Wenzhou-Kean University](http://www.wku.edu.cn/), Michael Graves College, School of Public Architecture.A student from Ningbo,Zhejiang province.
-  <br>
-  <br>
-### [PERSONAL WEBPAGE](https://yuning-yao.github.io/Architecture-Profolio/)
+
 <br>
 
 <br>
