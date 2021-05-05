@@ -8,8 +8,8 @@
 <br>
 
 ## Resume  <br>
-<br> [Complete Work in PDF](<embed src=" https://drive.google.com/file/d/1hnmBPtXCF9WnTsS3zOoOJ4zDoYi45EDy/view?usp=sharing" />)
-<br><img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/Summer.png?raw=true" width="500">
+<br> [Complete Resume in PDF](<embed src=" https://drive.google.com/file/d/1hnmBPtXCF9WnTsS3zOoOJ4zDoYi45EDy/view?usp=sharing" />)
+<br><img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/Resume%20Carol.jpg?raw=true" width="500">
 <br>
 
 ## Project
