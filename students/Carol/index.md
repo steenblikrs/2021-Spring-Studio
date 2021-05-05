@@ -8,6 +8,11 @@
 <br>
 
 ## Project
+
+**Fall 2020 Wenzhou**
+<br> [Finished Work]()
+<br>
+
 **Spring 2021 Wenzhou**
 <br>
 <br>
