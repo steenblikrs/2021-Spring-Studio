@@ -1,5 +1,5 @@
 # Yao Yuning | Lyla
-#### [PERSONAL WEBPAGE](https://yuning-yao.github.io/Architecture-Profolio/)
+#### [PERSONAL WEBPAGE](https://mimiyandexiaoyu.wixsite.com/my-site)
 ## Personal Introduction
   <img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Lyla/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210305092139.jpg?raw=true" width="300">
   
