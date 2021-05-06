@@ -22,7 +22,7 @@
 <br> 
 
 **Fall 2020 Wenzhou**<br> 
-<br> [Complete Work in PDF](<embed src=" https://drive.google.com/file/d/1hnmBPtXCF9WnTsS3zOoOJ4zDoYi45EDy/view?usp=sharing" />)
+<br> [Complete Work in PDF](https://xinglihongcarol.github.io/Portfolio/ARCH%203105%20FINAL%20(Carol)%20Lihong%20Xing.pdf)
 <br><img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/Fall.png?raw=true" width="500">
  <br>
 <br> 
