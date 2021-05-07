@@ -10,7 +10,7 @@
 
  <br>
 ## Selected Work 
-**2021Spring** <br> 
+**2021Spring** <br> [Studio website](https://corinazhang.wordpress.com/)
  [Week 1][Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
  [Week 2][Stacking Building Development](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Research)
