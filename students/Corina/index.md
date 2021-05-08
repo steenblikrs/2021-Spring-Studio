@@ -4,13 +4,14 @@
 <img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/self.gif?raw=true" width="300">
  <br> <br> <br>
  ## More Information
- [Portfolio](https://corinaaaa.github.io/portfolio/blob/main/proposal/index)
+<br><br> [Portfolio](https://corinaaaa.github.io/portfolio/blob/main/proposal/index)
 
 
 
  <br>
 ## Selected Work 
-**2021Spring** <br> [Studio website](https://corinazhang.wordpress.com/)
+**2021Spring** <br><br>
+[Studio website](https://corinazhang.wordpress.com/)
  [Week 1][Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
  [Week 2][Stacking Building Development](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Research)
@@ -18,5 +19,7 @@
  [week3][City Analysis](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
  <br><br>
 **Individual Project** <br>
-20 
- <br>  
+[2020Spring](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S)
+ <br><br>
+[2020Fall](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F)
+<br>
