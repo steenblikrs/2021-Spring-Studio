@@ -1,1 +1,16 @@
+**Urban condition:**
+
+Large size and high density of population; Heterogeneity; Formality of relations; Social distance; Regimentation; Segmentation of personality…
+
+“Big crowds and busy streets do not always help to create a sense of connectedness; for many city residents, they actively contribute to feelings of alienation. Rapid urbanization is exacerbating this challenge as walkable spaces shrink, parking lots replace playgrounds, and high-rises eclipse neighborhoods—all of which make it increasingly difficult to maintain a healthy sense of community and belonging. New arrivals, especially immigrant populations who may not speak the language, can struggle to establish a sense of belonging amidst the crowd.”
+
+**Two interrelated challenges for housing:**
+
+Social isolation and environmental sustainability.
+
+**Aspects to consider：**
+
+Distribution of public and private spaces;
+Ventilation and lighting;
+Transportation and communication.
 
