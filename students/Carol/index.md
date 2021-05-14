@@ -8,7 +8,8 @@
 <br>
 
 ## Resume  <br>
-<br> [Complete Resume in PDF](<embed src=" https://drive.google.com/file/d/1hnmBPtXCF9WnTsS3zOoOJ4zDoYi45EDy/view?usp=sharing" />)
+<br> <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/ARCH%203105%20FINAL%20(Carol)%20Lihong%20Xing.pdf" width="500" height="600">
 <br><img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/Resume%20Carol.jpg?raw=true" width="500">
 <br>
 
