@@ -16,5 +16,4 @@ Week1: [Group Research](https://steenblikrs.github.io/2021-Spring-Studio/Researc
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNjG565_2GiMWgezXsS_V67huWbOUbBTyfnys6IYD4OlH0Qn7mI8iZMBs5I7zN5w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
-Week2: To Be Continued...
-
+#[Studio Project](https://wordpress.com/post/w03travelstudio.wordpress.com/1572)
