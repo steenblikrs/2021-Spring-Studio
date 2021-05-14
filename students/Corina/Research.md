@@ -13,12 +13,12 @@ The ‘Co-center’ was built in the early ’20s as a cooperative building. Due
 <br><br>
 Case Study 3: City in the space <br>
 <br><img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/C1.jpg?raw=true" width="300">
-<img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/C2.jpg?raw=true" width="300">
+<img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/C2.jpg?raw=true" width="300"><br>
 City in the Space by Ricardo Bofill was designed as geometrical process that attempted to conquer the space through several geometric and rigid rules that gave as a result an infinite building framed by courtyards and arcades.<br>
 Moreover, it applies the modular system developed which combining cubic volumes. The outcome is never a juxtaposition of identical housing blocks. The distribution of the volumes, both in plan and elevation, is based on strict geometrical laws, pursuing diversity yet avoiding any sensation of the spontaneous growth of the structures.
 <br><br>
 Case Study 4:Habitat 67 / Safdie Architects
 <br><img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/R1.jpg?raw=true" width="300">
-<img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/R2.jpg?raw=true" width="300">
+<img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/R2.jpg?raw=true" width="300"><br>
 By creating the flexible block, we can solve the problem of air inefficiency and insufficient lighting caused by the same height of the building. Meanwhile, we can form a dynamic building height, and creating more facades for windows both interior and exterior.
 
