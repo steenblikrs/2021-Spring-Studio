@@ -10,11 +10,11 @@
 ## Selected Work 
 **2021Spring** <br>
 [Studio website](https://corinazhang.wordpress.com/)
- <br>[Week 1][Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
+ <br>Group Work[Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
- [Week 2][Stacking Building Development](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Research)
+ City Conditions[Stacking Building Development](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
  <br>
- [week 3][Precedent Learning](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
+ Precedent Research[Precedent Learning](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Research)
  <br><br>
 **Individual Project** <br>
 [2020Spring](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S)
