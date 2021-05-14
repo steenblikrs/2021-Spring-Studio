@@ -12,9 +12,9 @@
 [Studio website](https://corinazhang.wordpress.com/)
  <br>Group Work[Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
- City Conditions[Stacking Building Development](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
+ City Conditions[City Problem Analysis](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
  <br>
- Precedent Research[Precedent Learning](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Research)
+ Precedent Research[Stacking Building Development](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Research)
  <br><br>
 **Individual Project** <br>
 [2020Spring](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S)
