@@ -13,7 +13,7 @@
  <br>
  [Week 2][Stacking Building Development](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Research)
  <br>
- [week3][Precedent Learning](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
+ [week 3][Precedent Learning](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
  <br><br>
 **Individual Project** <br>
 [2020Spring](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S)
