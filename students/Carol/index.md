@@ -8,7 +8,7 @@
 <br>
 
 
- Learn More in this [PAGE](https://lihongx.wixsite.com/my-site-6)<font color=gray>
+(Learn More in this [PAGE](https://lihongx.wixsite.com/my-site-6)<font color=gray>)
 <br>
 ## Resume  <br>
 <br> <embed src="https://drive.google.com/viewerng/
