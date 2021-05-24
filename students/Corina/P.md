@@ -1,4 +1,4 @@
-Selected photos
+**Selected photos**
 <br>
 <img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/P1.jpg?raw=true" width="300">
 <img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/P2.JPG?raw=true" width="300"><br>
