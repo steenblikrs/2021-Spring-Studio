@@ -9,7 +9,7 @@
 
 
  Learn More in this [PAGE](https://lihongx.wixsite.com/my-site-6)<font color=gray>
-
+<br>
 ## Resume  <br>
 <br> <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/ARCH%203105%20FINAL%20(Carol)%20Lihong%20Xing.pdf" width="500" height="600">
