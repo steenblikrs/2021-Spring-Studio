@@ -34,10 +34,13 @@
 <br>
 
 Step1: [Group Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
+  Teammember: [Flora](https://zmrflora.github.io/Portfolio/index), [Corina](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsp8V9TEdgmfZdViF6xqjwUoBnNgmnUNQJ1UD6DL49hcvxdlNAHKagDLQSGgNMzg/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 
 Step2: [Site Model](https://xinglihongcarol.github.io/Portfolio/)
 <br>
 
+Stpt3: 
+  <br>
 o Be Continued...
