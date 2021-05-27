@@ -30,3 +30,17 @@
 <Br>Studio: Wang Zhai Competition
 <Br>Time: 2019 Spring
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/rep3.gif?raw=true" width="300">
+## Project4
+[Representation homework]
+<Br>GIF
+<Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/Weihan_Zheng_GIF.gif?raw=true" width="300">
+<Br>MIDTERM VIDEO
+
+  
+  
+  
+  
+  
+  
+  
+  
