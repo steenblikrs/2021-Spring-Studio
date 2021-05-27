@@ -5,6 +5,7 @@
  
 ## Project1
 <Br>[ShanGen Village Cooking School](https://www.stevenholl.com/projects/whitney-water-facility)
+<Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/3_1.jpg?raw=true" width="300">
 <Br>Title: Mandarin Fish  Cooking School
 <Br>Instructor: Linnea Moore
 <Br>Location:Wen Zhou ShanGen Village
