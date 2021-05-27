@@ -7,6 +7,7 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 **[Graham MaKay](https://misfitsarchitecture.com/)**
 
 <a href="https://steenblikrs.github.io/2021-Spring-Studio/Steenblik"><img alt="Photo of Spencer" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Steenblik/Steenblik.gif" width="300"></a>
+
 **[R. Spencer Steenblik](https://steenblikrs.github.io/2021-Spring-Studio/Steenblik)**
 
 ### Students
