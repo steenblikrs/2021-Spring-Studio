@@ -3,7 +3,7 @@
 <Br><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210527211604.jpg">
 <Br>A junior student from Wenzhou-Kean University, Michael Graves College, School of Public Architecture.
 ## Project1
-<Br>[ShanGen Village Cooking School](https://www.stevenholl.com/projects/whitney-water-facility)
+[ShanGen Village Cooking School](https://www.stevenholl.com/projects/whitney-water-facility)
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/3_1.jpg?raw=true" width="300">
 <Br>Title: Mandarin Fish  Cooking School
 <Br>Instructor: Linnea Moore
