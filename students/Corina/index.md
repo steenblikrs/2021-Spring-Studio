@@ -28,12 +28,11 @@
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/P">
          <img alt="Floating_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/P3.jpg?raw=true" width="620"></a>
       </td>
-   </tr>
   <tr> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S/">2020 Spring</a></strong>  <br/>Project: Culinary School-School Factory. Location: Yantai, China.
     </td>
     <td><strong><a href="https://https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F">2020 Fall</a></strong><br/>    
-Heterotic Architecture-Hybrid Buildings: Island Leisure Park. Location: Wenzhou, China. </a></td>
+Heterotic Architecture-Hybrid Buildings: Island Leisure Park. Location: Wenzhou, China.</td>
           <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/P">Photograph</a></strong> 
           
-   by phone or camera </br>
+   by phone or camera.
   
