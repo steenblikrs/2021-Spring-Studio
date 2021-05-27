@@ -15,6 +15,7 @@
  
 ## Project2
 <Br>[WenRuiTang Water Purification Park](https://www.stevenholl.com/projects/whitney-water-facility)
+<Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/18_1.jpg?raw=true" width="300"> 
 <Br>Title: Water Purification Park
 <Br>Instructor: Evan Saarinen
 <Br>Location:WenZhou WenRui Tang River
