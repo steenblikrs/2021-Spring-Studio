@@ -4,11 +4,17 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 
 ### Professors
 
+<a href="https://steenblikrs.github.io/2021-Spring-Studio/MaKay"><img alt="Photo of Graham" src="https://github.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/assets/Graham.jpg" width="300"></a>
+
 **[Graham MaKay](https://misfitsarchitecture.com/)**
 
-<a href="https://steenblikrs.github.io/2021-Spring-Studio/Steenblik"><img alt="Photo of Spencer" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Steenblik/Steenblik.gif" width="300"></a>
+<a href="https://steenblikrs.github.io/2021-Spring-Studio/Steenblik"><img alt="Photo of Spencer" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Steenblik/20210510RSSbw.png" width="300"></a>
 
 **[R. Spencer Steenblik](https://steenblikrs.github.io/2021-Spring-Studio/Steenblik)**
+
+<a href="https://steenblikrs.github.io/2021-Spring-Studio/Steenblik"><img alt="Photo of Spencer" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/assets/Evanbw.jpg" width="300"></a>
+
+**[Evan Saarinen](Saarinen)**
 
 ### Students
 
