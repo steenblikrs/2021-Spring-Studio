@@ -18,5 +18,5 @@ I am a senior studying architecture at [WKU](https://wku.edu.cn/). I have a wide
  <br>
 ### 5. [Internship](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/internship)
  <br>
-### 5. [Spline](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/spline)
+### 6. [Spline](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/spline)
  
