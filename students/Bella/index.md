@@ -12,7 +12,7 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
 <img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/rep1.gif" width="300">
 ## Project3
 [ShanGen Village Cooking School](https://www.stevenholl.com/projects/whitney-water-facility)
-<B>[Title: Water Purification Park
+<Br>[Title: Water Purification Park
 
 Instructor: Evan Saarinen
 
