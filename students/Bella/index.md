@@ -12,7 +12,7 @@
 <Br>Time: 2021 Spring
 <Br><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/rep1.gif" width="300">
 ## Project2
-<Br>[WenRuiTang Water Purification Park](https://www.stevenholl.com/projects/whitney-water-facility)
+[WenRuiTang Water Purification Park](https://www.stevenholl.com/projects/whitney-water-facility)
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/18_1.jpg?raw=true" width="300"> 
 <Br>Title: Water Purification Park
 <Br>Instructor: Evan Saarinen
@@ -21,7 +21,7 @@
 <Br>Time: 2020 Fall
 <Br><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/rep2.gif" width="300">
 ## Project3
-<Br>[WangZhai Village Culture Museum](https://www.stevenholl.com/projects/whitney-water-facility)
+[WangZhai Village Culture Museum](https://www.stevenholl.com/projects/whitney-water-facility)
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/33.jpg?raw=true" width="300"> 
 <Br>Title: Culture Museum
 <Br>Location:Wen Zhou WangZhai Village
