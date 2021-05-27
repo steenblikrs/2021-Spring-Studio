@@ -18,8 +18,7 @@
  <br><br>
 **Individual Project** <br>
 <table>
-  <tr>
-    <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S">
+ <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S">
          <img alt="" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/2f.png?raw=true" width="620"
       </td>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F">
