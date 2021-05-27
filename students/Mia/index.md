@@ -6,6 +6,7 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
 ### Project 1
 [Material Research](https://www.archdaily.com/476252/infographic-materials-in-architecture-a-history)
 ### Project 2
-[COOKING SCHOOL]< img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/00.gif?raw=true" width="300">
+COOKING SCHOOL
+< img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/00.gif?raw=true" width="300">
 ### Project 3
 [Landscape: Theater with water](
