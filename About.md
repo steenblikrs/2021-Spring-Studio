@@ -12,7 +12,7 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 
 **[R. Spencer Steenblik](https://steenblikrs.github.io/2021-Spring-Studio/Steenblik)**
 
-<a href="https://steenblikrs.github.io/2021-Spring-Studio/Saarinen"><img alt="Photo of Evan Saarinen" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/assets/Evanbw.jpg" width="300"></a>
+<a href="https://steenblikrs.github.io/2021-Spring-Studio/Saarinen"><img alt="Photo of Evan Saarinen" src="https://github.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/assets/Evanbw.jpg" width="300"></a>
 
 **[Evan Saarinen](https://steenblikrs.github.io/2021-Spring-Studio/Saarinen)**
 
