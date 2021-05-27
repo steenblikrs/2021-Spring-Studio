@@ -6,8 +6,8 @@
 
  Shi Xiaotong, an architecture student of Michael Graves College at [Wenzhou-Kean University](http://www.wku.edu.cn/) in 2018. 
  
- <img alt="Shannon" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/cd17ef413ecc74f5eb2611c9f94b9abd34b2bacc/students/Shannon/b622225fec5fa83a9e018703b3000c6.jpg">
- 
+ <img alt="Rachel" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Shannon/b622225fec5fa83a9e018703b3000c6.jpg?raw=true" width="300">
+
  <br>
 **Project in 2021 Spring**
 - Week1: Group work [City of a Thousand Planets](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index) (*Responsible for the theoretical aspects*）
