@@ -3,7 +3,7 @@
 <Br><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210527211604.jpg">
 <Br>A junior student from Wenzhou-Kean University, Michael Graves College, School of Public Architecture.
 ## Project1
-[ShanGen Village Cooking School](https://www.stevenholl.com/projects/whitney-water-facility)
+[ShanGen Village Cooking School](https://weihanzh.cargo.site/Project-01)
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/3_1.jpg?raw=true" width="300">
 <Br>Title: Mandarin Fish  Cooking School
 <Br>Instructor: Linnea Moore
@@ -12,7 +12,7 @@
 <Br>Time: 2021 Spring
 <Br><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/rep1.gif" width="300">
 ## Project2
-[WenRuiTang Water Purification Park](https://github.com/steenblikrs/2021-Spring-Studio/blob/73ddad8002708291c7c731403f8583cc3ea83674/students/Bella/2.pdf)
+[WenRuiTang Water Purification Park](https://weihanzh.cargo.site/Project-02)
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/18_1.jpg?raw=true" width="300"> 
 <Br>Title: Water Purification Park
 <Br>Instructor: Evan Saarinen
@@ -21,7 +21,7 @@
 <Br>Time: 2020 Fall
 <Br><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/rep2.gif" width="300">
 ## Project3
-[WangZhai Village Culture Museum](https://www.stevenholl.com/projects/whitney-water-facility)
+[WangZhai Village Culture Museum](https://weihanzh.cargo.site/Project-03)
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/33.jpg?raw=true" width="300"> 
 <Br>Title: Culture Museum
 <Br>Location:Wen Zhou WangZhai Village
