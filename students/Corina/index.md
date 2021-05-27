@@ -8,7 +8,7 @@
  [Portfolio](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Pro)
 
 ## Selected Work 
-**2021Spring** <br>
+**2021 Spring** <br>
 [Studio website](https://corinazhang.wordpress.com/)
  <br>Group Work  [Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
@@ -18,7 +18,7 @@
  <br><br>
 **Individual Project** <br>
 <table>
-    </td> <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S">
+<td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S">
          <img alt="1" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/2f.png?raw=true" width="620"></a>
       </td>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F">
@@ -33,5 +33,5 @@
 Heterotic Architecture-Hybrid Buildings: Island Leisure Park. Location: Wenzhou, China.</td>
           <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/P">Photograph</a></strong> 
           
-   by phone or camera.
+   <br>by phone or camera.
   
