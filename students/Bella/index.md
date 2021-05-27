@@ -19,7 +19,7 @@
 <Br>Location:WenZhou WenRui Tang River
 <Br>Studio: Arch 2103 Landscape
 <Br>Time: 2020 Fall
-<Br><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/rep1.gif" width="300">
+<Br><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/rep2.gif" width="300">
  
 ## Project3
 <Br>[WangZhai Village Culture Museum](https://www.stevenholl.com/projects/whitney-water-facility)
