@@ -1,4 +1,4 @@
-# Sarry | Dong Zhiling
+# Sarry (Dong Zhiling)
 
 ## Personal Introduction
 
