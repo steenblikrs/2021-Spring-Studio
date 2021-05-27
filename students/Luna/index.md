@@ -1,7 +1,7 @@
 # Wang Yuwen | Luna
 #### [PERSONAL WEBPAGE](https://mimiyandexiaoyu.wixsite.com/my-site)
 ## Personal Introduction
-  <img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Lyla/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210305092139.jpg?raw=true" width="300">
+  <img alt="Carol" srchttps://github.com/steenblikrs/2021-Spring-Studio/blob/f9f09d1c0d61ce9c18bad3ce554e6d4099bde58b/students/Luna/e48a3228e18c8a2cca99b834fbb9f26.jpg?raw=true" width="300">
 
   A junior student from [Wenzhou-Kean University](http://www.wku.edu.cn/), Michael Graves College, School of Public Architecture.A student from Hefei,Anhui Province.
 
