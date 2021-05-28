@@ -27,14 +27,19 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
 
 
 ### Students
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index"><img alt="Carol" src="" width="300"></a></td>
+    <td style="border: none;"><a href="https://https://zmrflora.github.io/Portfolio/index"><img alt="Flora" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Flora/self-portrait.jpg?raw=true" width="300"></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index"><img alt="Corina" src="<img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/P1.jpg?raw=true" width="300"></a></td>
+  </tr><tr style="border: none;">
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index"><b>Carol</b></a></td>
+    <td style="border: none;"><a href="https://https://zmrflora.github.io/Portfolio/index"><b>Flora</b></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index"><b>Corina</b></a></td>
+  </tr></table>
+<br/><br/>
 
 **[Aguilar](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index)
-<br/>
-[Carol](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index)
-<br/>
-[Corina](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index)
-<br/>
-[Flora](https://zmrflora.github.io/Portfolio/index)
 <br/>
 [Rachel](https://nuoyingc.github.io/)
 <br/>
