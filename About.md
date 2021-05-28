@@ -31,7 +31,7 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
   <tr style="border: none;">
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index"><img alt="Carol" src="" width="300"></a></td>
     <td style="border: none;"><a href="https://https://zmrflora.github.io/Portfolio/index"><img alt="Flora" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Flora/self-portrait.jpg?raw=true" width="300"></a></td>
-    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index"><img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/s.jpg?raw=true" width="320"></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index"><img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/s.jpg?raw=true" width="300"></a></td>
   </tr><tr style="border: none;">
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index"><b>Carol</b></a></td>
     <td style="border: none;"><a href="https://https://zmrflora.github.io/Portfolio/index"><b>Flora</b></a></td>
