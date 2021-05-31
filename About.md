@@ -5,12 +5,12 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
 ### Professors
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/MaKay"><img alt="Photo of Graham MaKay" src="https://github.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/assets/Graham.jpg" width="300"></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/McKay"><img alt="Photo of Graham McKay" src="https://github.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/assets/Graham.jpg" width="300"></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/Steenblik"><img alt="Photo of Spencer" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Steenblik/20210510RSSbw.png" width="300"></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/Saarinen"><img alt="Photo of Evan Saarinen" src="https://github.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/assets/Evanbw.jpg" width="300"></a></td>
   </tr>
  <tr style="border: none;">
-    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/McKay"><b>Graham MaKay</b></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/McKay"><b>Graham McKay</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/Steenblik"><b>R. Spencer Steenblik</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/Saarinen"><b>Evan Saarinen</b></a></td>
   </tr>
