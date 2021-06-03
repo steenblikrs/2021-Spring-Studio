@@ -40,7 +40,8 @@ Such a station would rotate about its axis, thus creating an environment of arti
   
 In theory, the station could be configured to simulate the gravitational acceleration of Earth (9.81 m/s2), allowing for human long stays in space without the drawbacks of microgravity.
 
-Biosphere2
+## Precedent Examples
+### Biosphere2
 
 The previous examples are all attempts by humans to close the ecosystem. But they have 
 some limitations, such as being too small and not long lasting.
