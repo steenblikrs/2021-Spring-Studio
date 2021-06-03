@@ -92,3 +92,5 @@ The purpose of this project is to build a ring space station with a closed ecosy
   Section
   <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/xiangao%20%5B%E8%BD%AC%E6%8D%A2%5D-01.png?raw=true" width="600">
   Axonometric views
+  
+  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/27b29d7f224ed4bb9959f4cc9cd77826d2cfcb00/students/Huey/picture/0300-0378%2000_00_00-00_00_30~1.gif?raw=true" width="600">
