@@ -5,7 +5,7 @@
  <br>  <br> 
 **More Information** 
 
- [Portfolio](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Pro)
+ [Portfolio](https://github.com/steenblikrs/2021-Spring-Studio/blob/f34f8ed78bf1c4056f540159f1b4511964cb22b6/students/Jeremy/resume)
 
 ## Selected Work 
 **2021 Spring** <br>
