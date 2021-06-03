@@ -15,6 +15,7 @@
 
 Man-made closed ecological systems which were created to sustain human life include 
 Biosphere 2, MELiSSA, and the BIOS-1, BIOS-2, and BIOS-3 projects.
+
   <br>
   <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/349631408a61b3b4ce65948509c61f76212f1d03/students/Huey/picture/33.jpg?raw=true" width="300">
   
@@ -25,6 +26,7 @@ shrimp, algae, gravel, decorative shells, and gorgonia.
 ### In fiction
 
 The 1993 novel This Other Eden by Ben Elton featured the development of "claustrospheres" which were closed ecological systems contained within a dome in which people could take refuge in the event of environmental collapse.
+
   <br>
   <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4b20daf95b491a023d93aa33a09b095999ff3a78/students/Huey/picture/This_Other_Eden.jpg?raw=true" width="300">
   
