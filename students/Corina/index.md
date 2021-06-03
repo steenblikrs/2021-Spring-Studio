@@ -7,7 +7,16 @@
 
  [Portfolio](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Pro)
 
-## Projects
+## Selected Work 
+**2021 Spring** <br>
+[Studio website](https://corinazhang.wordpress.com/)
+ <br>Group Work  [Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
+ <br>
+ City Conditions  [City Problem Analysis](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
+ <br>
+ Precedent Research  [Stacking Building Development](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Research)
+ <br><br>
+**Individual Project** <br>
 <table>
 <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S">
          <img alt="1" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/2f.png?raw=true" width="620"></a>
