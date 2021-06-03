@@ -64,7 +64,7 @@ Wandering Earth
 
 ## Process documentation
 ### Source images
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQjUKt5kgP2Ms_PO7LCpKUvJAZsCKGCDQcKw0-yCt18kqIcPvlUCrzjTEAFUN5mQ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQjUKt5kgP2Ms_PO7LCpKUvJAZsCKGCDQcKw0-yCt18kqIcPvlUCrzjTEAFUN5mQ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Collages
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrgcWDwgtgzxz2GyyzHlfB0z4boYgUqVVL-9i48_yHSFppWNo_FnqMrCY2tYbiTA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrgcWDwgtgzxz2GyyzHlfB0z4boYgUqVVL-9i48_yHSFppWNo_FnqMrCY2tYbiTA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
