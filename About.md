@@ -65,7 +65,7 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [Hannah](https://jiayiny.wixsite.com/mysite)
 <br/>
-[Lyla](https://steenblikrs.github.io/2021-Spring-Studio/students/Lyla/index)
+[Lyla](https://lylayaoarchitectural.cargo.site/)
 <br/>
 [Rose](https://steenblikrs.github.io/2021-Spring-Studio/students/Rose/index)
 <br/>
