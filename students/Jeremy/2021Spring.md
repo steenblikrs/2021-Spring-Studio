@@ -3,13 +3,21 @@
 <br><br>
 In the course of 2021 Spring Studio, students choose a dish to design a qualified cooking school in Shangen Village in Wenzhou.
 <br><br>
-Brown Sugar Twist
+**Brown Sugar Twist**
 <br>
-Decomposition of the ingredients
-1. Menzi, made of sweet potato starch, put oil in the pot and fry it, made it crispy outside and tender
-inside, with sesame sauce and garlic paste.
-2. Seafood is not fixed, but according to seasonal changes, typically have squid, shrimp, conch, abalone, scallops, sea cucumber, etc.
-3. It also can match some time to vegetables, such as rapeseed, black fungus, cucumber, carrot etc.,
+Ingredient list:
+For Twist
+1.	flour
+2.	milk
+3.	eggs
+4.	sugar
+5.	yeast
+6.	(honey)
+7.	(oil)
+
+For Brown Sugar
+Sugar cane
+
 make food taste more abundant.
 <br>
 Cooking Process
