@@ -32,9 +32,21 @@ The 1993 novel This Other Eden by Ben Elton featured the development of "claustr
   
 The critically panned 1996 comedy film Bio-Dome involved the protagonists becoming trapped in a closed ecological system being run as an experiment.
 
-## Historic Research
+## Technical&Theoretical Research
+### Closed ecological systems (CES)
 
+Closed ecological systems (CES) are ecosystems that do not rely on matter exchange with any part outside the system.
 
+The term is most often used to describe small manmade ecosystems. Such systems are scientifically interesting and can potentially serve as a life support system during space flights, in space stations or space habitats.
+
+### Rotating wheel space station
+
+Such a station would rotate about its axis, thus creating an environment of artificial gravity. Occupants of the station would experience centripetal acceleration, according to the following equation:[2]
+
+{\displaystyle a=-\omega ^{2}r}a = -\omega^2 r
+where {\displaystyle \omega }\omega  is the angular velocity of the station, {\displaystyle r}r is its radius, and {\displaystyle a}a is linear acceleration at any point along its perimeter.
+
+In theory, the station could be configured to simulate the gravitational acceleration of Earth (9.81 m/s2), allowing for human long stays in space without the drawbacks of microgravity.
 
 Biosphere2
 
