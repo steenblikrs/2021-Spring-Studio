@@ -1,5 +1,4 @@
-# A R C H - 4 1 1 2 
-&nbsp  V E R T I C A L - S T U D I O
+# A R C H - 4 1 1 2 &nbsp；  V E R T I C A L - S T U D I O
 <br><br>
 In the course of 2021 Spring Studio, students choose a dish to design a qualified cooking school in Shangen Village in Wenzhou.
 <br><br>
