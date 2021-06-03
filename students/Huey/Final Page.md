@@ -70,9 +70,11 @@ Wandering Earth
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrgcWDwgtgzxz2GyyzHlfB0z4boYgUqVVL-9i48_yHSFppWNo_FnqMrCY2tYbiTA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Experiential Storyboard
- <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/d40917d8fbfd79c120985423fe9da187ad29a5a8/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04A.jpg" width="600">
- 
- <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/3acd6724cb67ff1d2830db3334885334dfa44c63/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04B.jpg" width="1000">
+
+ <br>
+  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/d40917d8fbfd79c120985423fe9da187ad29a5a8/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04A.jpg?raw=true" width="300">
+
+ <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/3acd6724cb67ff1d2830db3334885334dfa44c63/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04B.jpg?raw=true" width="300">
 
 ## Design Proposal Statement 
 The purpose of this project is to build a ring space station with a closed ecosystem. But its form of existence is not in space. This project has a complete story line: an astronaut returning from space finds a crashed space station, but it Ren is in operation. This project will bring a special urban experience to the protagonist of the story, and at the same time it is very dramatic.
