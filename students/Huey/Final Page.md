@@ -15,7 +15,9 @@
 
 Man-made closed ecological systems which were created to sustain human life include 
 Biosphere 2, MELiSSA, and the BIOS-1, BIOS-2, and BIOS-3 projects.
-  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/349631408a61b3b4ce65948509c61f76212f1d03/students/Huey/picture/33.jpg?raw=true" width="300">
+  <br>
+<img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/349631408a61b3b4ce65948509c61f76212f1d03/students/Huey/picture/33.jpg?raw=true" width="300">
+  <br>
 Bottle gardens and aquarium ecospheres are partially or fully enclosed glass containers that 
 are self-sustaining closed ecosystems that can be made or purchased. They can include tiny 
 shrimp, algae, gravel, decorative shells, and gorgonia.
