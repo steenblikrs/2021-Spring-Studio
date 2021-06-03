@@ -50,3 +50,5 @@ must be large enough to carry enough people, and its ecosystem must be sustainab
 this project is called Biosphere2, what is Biosphere1, well Biosphere is the earth. The earth 
 meets all the conditions of a closed ecosystem. It only accepts heat from the sun, and there 
 is almost no energy exchange with the outside
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
