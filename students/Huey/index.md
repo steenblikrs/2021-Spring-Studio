@@ -1,4 +1,4 @@
-[Huey](https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/Final Page)
+[Studio Final](https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/Final Page)
 <br/>
 ## Xiuyuan Ruan | Huey
 ## Introduction
