@@ -10,6 +10,20 @@
 
 
 ## Historic Research
+
+Man-made closed ecological
+
+Man-made closed ecological systems which were created to sustain human life include 
+Biosphere 2, MELiSSA, and the BIOS-1, BIOS-2, and BIOS-3 projects.
+
+Bottle gardens and aquarium ecospheres are partially or fully enclosed glass containers that 
+are self-sustaining closed ecosystems that can be made or purchased. They can include tiny 
+shrimp, algae, gravel, decorative shells, and gorgonia.
+
+
+
+
+
 Biosphere2
 
 The previous examples are all attempts by humans to close the ecosystem. But they have 
