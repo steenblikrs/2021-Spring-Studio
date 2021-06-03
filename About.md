@@ -67,7 +67,7 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [Luna](https://steenblikrs.github.io/2021-Spring-Studio/students/Luna/index)
 <br/>
-[Shannon](https://steenblikrs.github.io/2021-Spring-Studio/students/Shannon/index)
+[Shannon](https://xiaotongshishannon.cargo.site/)
 <br/>
 [Sarry](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index)
 <br/>
