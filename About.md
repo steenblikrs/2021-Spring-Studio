@@ -32,7 +32,7 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index"><img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/Carol-self%20portrait.jpg?raw=true" width="200"></a></td>
     <td style="border: none;"><a href="https://https://zmrflora.github.io/Portfolio/index"><img alt="Flora" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Flora/self-portrait2.jpg?raw=true" width="200"></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index"><img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/s.jpg?raw=true" width="200"></a></td>
-    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index"><img alt="Photo of Sarry" src="https://github.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/students/Sarry/未压缩.jpg" width="165"></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index"><img alt="Photo of Sarry" src="https://github.com/steenblikrs/2021-Spring-Studio/raw/gh-pages/students/Sarry/未压缩.jpg" width="200"></a></td>
   </tr><tr style="border: none;">
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index"><b>Carol</b></a></td>
     <td style="border: none;"><a href="https://https://zmrflora.github.io/Portfolio/index"><b>Flora</b></a></td>
