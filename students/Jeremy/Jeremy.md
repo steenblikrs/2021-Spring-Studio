@@ -13,8 +13,7 @@
 <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S/">2021 Spring</a></strong>  <br/>Project: Culinary School-School Factory. Location: Shangen Village, Wenzhou, China.
  
  
-    </td>
-    <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F">
+  <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F">
          <img alt="2" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/3f.jpg?raw=true" width="300"></a>
       </td>
   <td><strong><a href="https://https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F">2020 Fall</a></strong><br/>    
