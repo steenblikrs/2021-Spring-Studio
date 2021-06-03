@@ -81,3 +81,13 @@ The purpose of this project is to build a ring space station with a closed ecosy
 
 ## Primary Perspectives
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhMrCvGyFEM8frNKd9dS4z9EPHMyfpBnoiE_eWGlE-_4ieSSH_rA8NykPV6pm_Ug/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Diagrams
+ <br>
+  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/n%E9%B8%9F%E7%9E%B01.png?raw=true" width="600">
+   <br>
+  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/n%E9%B8%9F%E7%9E%B02.png?raw=true" width="600">
+     <br>
+  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_202106031742480.png?raw=true" width="600">
+       <br>
+  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/xiangao%20%5B%E8%BD%AC%E6%8D%A2%5D-01.png?raw=true" width="600">
