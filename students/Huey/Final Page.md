@@ -86,12 +86,9 @@ The purpose of this project is to build a ring space station with a closed ecosy
  <br>
   <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/n%E9%B8%9F%E7%9E%B01.png?raw=true" width="600">
   Birdview
-   <br>
   <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/n%E9%B8%9F%E7%9E%B02.png?raw=true" width="600">
   Birdview(Rendered)
-     <br>
   <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_202106031742480.png?raw=true" width="600">
   Section
-<br>
   <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/1f59894a5455edd1cd64bbf438944d958fbb9ea3/students/Huey/picture/xiangao%20%5B%E8%BD%AC%E6%8D%A2%5D-01.png?raw=true" width="600">
   Axonometric views
