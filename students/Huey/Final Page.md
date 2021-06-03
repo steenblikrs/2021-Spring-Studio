@@ -55,8 +55,8 @@ is almost no energy exchange with the outside
 
 ### Precedent from movies
 
- ## #1 Interstaller
- <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/f4de62f7e3f6687eb28e91ee05f0ed75242ec1ed/students/Huey/tumblr_o7swcyN9LD1qjsc4fo1_500.gif?raw=true" width="600">
+Interstaller
+ <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/f4de62f7e3f6687eb28e91ee05f0ed75242ec1ed/students/Huey/tumblr_o7swcyN9LD1qjsc4fo1_500.gif?raw=true" width="400">
 
-## #2 Interstaller 2
- <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/56cd67fa0a58d1fd84536070f06f2d6730591223/students/Huey/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000458484848456466666.gif?raw=true" width="600">
+Wandering Earth
+ <img alt="Ted" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/bf9119068b4cac6a294547a510132fdacdf7a2cf/students/Ted/4.jpg?raw=true" width="400">
