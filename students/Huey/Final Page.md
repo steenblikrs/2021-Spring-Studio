@@ -72,7 +72,7 @@ Wandering Earth
 ## Experiential Storyboard
  <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/d40917d8fbfd79c120985423fe9da187ad29a5a8/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04A.jpg" width="600">
  
- <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/09b855c695f4f1c85a4f138186def90f6138666e/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04B.jpg" width="1000">
+ <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/3acd6724cb67ff1d2830db3334885334dfa44c63/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04B.jpg" width="1000">
 
 ## Design Proposal Statement 
 The purpose of this project is to build a ring space station with a closed ecosystem. But its form of existence is not in space. This project has a complete story line: an astronaut returning from space finds a crashed space station, but it Ren is in operation. This project will bring a special urban experience to the protagonist of the story, and at the same time it is very dramatic.
