@@ -23,6 +23,12 @@ Bottle gardens and aquarium ecospheres are partially or fully enclosed glass con
 are self-sustaining closed ecosystems that can be made or purchased. They can include tiny 
 shrimp, algae, gravel, decorative shells, and gorgonia.
 
+### In fiction
+
+The 1993 novel This Other Eden by Ben Elton featured the development of "claustrospheres" which were closed ecological systems contained within a dome in which people could take refuge in the event of environmental collapse.
+
+The critically panned 1996 comedy film Bio-Dome involved the protagonists becoming trapped in a closed ecological system being run as an experiment.
+
 
 
 
