@@ -52,3 +52,11 @@ meets all the conditions of a closed ecosystem. It only accepts heat from the su
 is almost no energy exchange with the outside
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Precedent from movies
+
+ ## #1 Interstaller
+ <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/f4de62f7e3f6687eb28e91ee05f0ed75242ec1ed/students/Huey/tumblr_o7swcyN9LD1qjsc4fo1_500.gif?raw=true" width="600">
+
+## #2 Interstaller 2
+ <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/56cd67fa0a58d1fd84536070f06f2d6730591223/students/Huey/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000458484848456466666.gif?raw=true" width="600">
