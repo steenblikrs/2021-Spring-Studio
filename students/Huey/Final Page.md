@@ -73,3 +73,6 @@ Wandering Earth
  <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/09b855c695f4f1c85a4f138186def90f6138666e/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04A.png" width="600">
  
  <img alt="Interstaller" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/09b855c695f4f1c85a4f138186def90f6138666e/students/Huey/picture/Xiuyuan_Ruan_LectureSeven04B.png" width="1000">
+
+## Design Proposal Statement 
+The purpose of this project is to build a ring space station with a closed ecosystem. But its form of existence is not in space. This project has a complete story line: an astronaut returning from space finds a crashed space station, but it Ren is in operation. This project will bring a special urban experience to the protagonist of the story, and at the same time it is very dramatic.
