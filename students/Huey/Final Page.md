@@ -41,11 +41,11 @@ The term is most often used to describe small manmade ecosystems. Such systems a
 
 ### Rotating wheel space station
 
-Such a station would rotate about its axis, thus creating an environment of artificial gravity. Occupants of the station would experience centripetal acceleration, according to the following equation:[2]
+Such a station would rotate about its axis, thus creating an environment of artificial gravity. Occupants of the station would experience centripetal acceleration.
 
-{\displaystyle a=-\omega ^{2}r}a = -\omega^2 r
-where {\displaystyle \omega }\omega  is the angular velocity of the station, {\displaystyle r}r is its radius, and {\displaystyle a}a is linear acceleration at any point along its perimeter.
-
+  <br>
+  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/a6d6d6d2a853c39d4623ac14853497de969be223/students/Huey/picture/800px-Noordung_space_station.jpg?raw=true" width="300">
+  
 In theory, the station could be configured to simulate the gravitational acceleration of Earth (9.81 m/s2), allowing for human long stays in space without the drawbacks of microgravity.
 
 Biosphere2
