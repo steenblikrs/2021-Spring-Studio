@@ -9,4 +9,12 @@
 
 
 
-## Project
+## Historic Research
+Biosphere2
+The previous examples are all attempts by humans to close the ecosystem. But they have 
+some limitations, such as being too small and not long lasting.
+Imagine that if humans will one day move to space and build cities in space, then its scale 
+must be large enough to carry enough people, and its ecosystem must be sustainable.Why 
+this project is called Biosphere2, what is Biosphere1, well Biosphere is the earth. The earth 
+meets all the conditions of a closed ecosystem. It only accepts heat from the sun, and there 
+is almost no energy exchange with the outside
