@@ -1,5 +1,4 @@
 # Falling Ecosphere
-### Xiuyuan Ruan | Huey
 
 ## Historic Research
 
