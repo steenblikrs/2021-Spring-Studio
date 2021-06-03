@@ -27,6 +27,9 @@ shrimp, algae, gravel, decorative shells, and gorgonia.
 
 The 1993 novel This Other Eden by Ben Elton featured the development of "claustrospheres" which were closed ecological systems contained within a dome in which people could take refuge in the event of environmental collapse.
 
+  <br>
+  <img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4b20daf95b491a023d93aa33a09b095999ff3a78/students/Huey/picture/This_Other_Eden.jpg?raw=true" width="300">
+  
 The critically panned 1996 comedy film Bio-Dome involved the protagonists becoming trapped in a closed ecological system being run as an experiment.
 
 
