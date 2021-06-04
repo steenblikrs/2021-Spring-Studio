@@ -62,6 +62,12 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Bella/index"><b>Bella</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index"><b>Latika</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index"><b>Ted</b></a></td>
+
+     
+ <tr style="border: none;">
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index><img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/b84488731ba3b69f4567d950802c56fad158e24c/students/Alex/pic/%E7%85%A7%E7%89%87.jpg?raw=true" width="200"></a></td>
+   </tr><tr style="border: none;">
+  <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><b>Alex</b></a></td>
    </tr>
      
   </table>
