@@ -34,8 +34,8 @@
 [Representation homework]
 <Br>GIF
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/Weihan_Zheng_GIF.gif?raw=true" width="300">
-<Br>MIDTERM VIDEO
-  
+<Br>Photospheres
+  <Br><img alt="Bella" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/Pan.jpg&autoLoad=true"
 <Br>Video Game Engines Screen Shoot
   
   
