@@ -46,10 +46,12 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index"><img alt="Aguilar" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/c053535b134851573584310c10c19875938fc2f9/students/Aguilar/ASSETS/%E5%8E%BB%E8%89%B2%E7%85%A7.jpg?raw=true" width="200"></a></td>
      <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Rose/index"><img alt="Rose" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Rose/49898d15f83e0d05bdee45182e278a0.jpg?raw=true" width="200"></a></td>
      <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index"><img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210604105729.jpg?raw=true" width="200"></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Jeremy/Jeremy"><img alt="Jeremy" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/62ce5b79022cd1ba6dca6b8217f0c6d12a62ead3/students/Jeremy/1535130204065%20(2.1).png?raw=true" width="200"></a></td>
    </tr><tr style="border: none;">
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index"><b>Aguilar</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Rose/index"><b>Rose</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index"><b>Mia</b></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Jeremy/Jeremy"><b>Jeremy</b></a></td>
      </tr></table>
 <br/><br/>
 
