@@ -1,7 +1,7 @@
 # JEREMY | ZESHENG ZHU
 
 ## Self-introduction
-<img alt="JEREMY" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Jeremy/1535130204065%20(2).png?raw=true" width="400">
+<img alt="JEREMY" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/fc05d8a719ea9fe0faac43be1b8a256755a7525f/students/Jeremy/1535130204065%20(2.1).png?raw=true" width="400">
 
  An Junior Student from Michael Graves College at Wenzhou-Kean University<br><br>
  
