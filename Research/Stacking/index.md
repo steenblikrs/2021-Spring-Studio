@@ -6,6 +6,23 @@
 
 
 ### Theoretical
+#### The Vertical Village
+Exhibition at Museum of Tomorrow in Taipei (5 Oct 2011 - 8 Jan 2012)
+<br>
+“The Vertical Village” exhibition explored the topic of rapid urban transformation in East Asia, the qualities of urban villages and the potential to realize this in a much denser, vertical way as a radical alternative to the identical block architecture with standard apartments and its consequences for the city. 
+<br>
+**Who is vertical village for?**
+The vertical village exhibition offers a parametric tool for a developer to create an environment that is an alternative to the "Block Attack". The tool will help the developer to bring personal freedom, diversity, flexibility and neighborhood life back into East Asian cities, and yet the tool can also contribute to the discussion in a European context. <br>
+**Why is vertical village important?**
+The vertical village is a study of how dense environment can still maintain their identity. It looks at whether the villages can be densified in such a way that the qualities of traditional village are preserved and enriched.Wego: Adaptation of Housing in Future Cities.
+Based on the hypothesis of maximum density achievement and maximum desire fulfillment, the book of The Why Factory’s “Future Cities” series explores the potentials of desire-based design processes, capable of introducing the residents’ wishes in the construction and adaptation of housing and the city.
+<br>
+#### Wego: Adaptation of Housing in Future Cities
+Based on the hypothesis of maximum density achievement and maximum desire fulfillment, the book of The Why Factory’s “Future Cities” series explores the potentials of desire-based design processes, capable of introducing the residents’ wishes in the construction and adaptation of housing and the city.
+<br>
+
+
+
 
 
 ### Technical
