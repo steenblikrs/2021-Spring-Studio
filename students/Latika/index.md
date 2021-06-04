@@ -14,7 +14,6 @@ yexiny@kean.edu
 
 [拓邦部落设计联盟 TOPOS DESIGN CLANS](https://www.architonic.com/en/project/topos-design-clans-shunfenglou-seafood-restaurant/20035279)
 
-
-[![Personal Photo](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Latika/48e34d60c8eb0868a336c4c7f0ca358b.jpg?raw=true )]()
-
+### Panorama-Wenzhou Wonton School
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//api2.enscape3d.com/v3/view/8fedab87-9bc3-4fea-8ab1-b57239a3887c&title=Wenzhou%20Wonton%20School&author=Latika"></iframe>
 
