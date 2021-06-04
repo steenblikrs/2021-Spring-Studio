@@ -54,9 +54,12 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
  <tr style="border: none;"> 
   <td style="border: none;"><a href="https://wuhaozhuo.cargo.site"><img alt="Anita" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/anita/WechatIMG2162.jpeg" width="200"></a></td>
    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Bella/index"><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210604135645.jpg" width="200"></a></td>
+   <td style="border: none;"><a href="https://https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Latika/(Latika)photo.png"><img alt=Latika" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Latika/(Latika)photo.png?raw=true" width="200"></a></td>
 </tr><tr style="border: none;"> 
     <td style="border: none;"><a href="https://wuhaozhuo.cargo.site"><b>Anita</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Bella/index"><b>Bella</b></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index"><b>Latika</b></a></td>
+    
     </tr>
   </table>
 
@@ -98,8 +101,6 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
 [Shannon](https://xiaotongshishannon.cargo.site/)
 <br/>
 [Stafford](https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Index)
-<br/>
-[Latika](https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index)
 <br/>
 [Alex](https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index)
 <br/>
