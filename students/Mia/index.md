@@ -8,7 +8,7 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
  [Portfolio](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/resume.png?raw=true)
 
 ## Projects
-<table>
+
 ### Project 1：COOKING SCHOOL
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/00.gif?raw=true" width="300">
 
