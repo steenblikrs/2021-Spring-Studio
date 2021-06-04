@@ -14,7 +14,10 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/Steenblik"><b>R. Spencer Steenblik</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/Saarinen"><b>Evan Saarinen</b></a></td>
   </tr>
-</table>
+ <tr style="border: none;"> 
+  <td style="border: none;"><a https://wuhaozhuo.cargo.site"><img alt="Carol" src="" width="200"></td>
+</tr>
+    </table>
 
 
 
