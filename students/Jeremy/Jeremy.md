@@ -21,14 +21,15 @@
          <img alt="2" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/9e6f94a8b96f8474018cf8c3d0bfaaaf06bc599e/students/Jeremy/5.%203D%20REPRESENTATION%20detailed%20axonometric%20drawing%20co%20(60cm%20X%2060cm).png?raw=true" width="400"><br>
       </td>
   <td><strong><a href="https://https://steenblikrs.github.io/2021-Spring-Studio/students/Jeremy/2019Fall">2020 Fall</a></strong><br/>    
-Heterotic Architecture-Hybrid Buildings: Island Leisure Park. <br>
-   Location: Wenzhou, China.<br>
+Landscape： Birdwatching House<br>
+   Location: Wenzhou, Zhejiang Province, China.<br>
   <br>
  
- <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/P">
-         <img alt="3" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/P3.jpg?raw=true" width="400"><br>
-<td><strong><a href="https://https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F">2020 Fall</a></strong><br/>    
+ <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Jeremy/2020Fall Structure">
+         <img alt="3" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/247c04f34870833699e7351ab4b8e821a7b600e7/students/Jeremy/axonometric.png?raw=true" width="400"><br>
+<td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Jeremy/2020Fall Structure">2020 Fall</a></strong><br/>    
 Heterotic Architecture-Hybrid Buildings: Island Leisure Park. Location: Wenzhou, China.</td>
           <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/P">Photograph</a></strong> 
-   <br>by phone or camera.
+  Structure Research<br>
+   Location: Wangzhai Village，Wenzhou, Zhejiang Provinc, China.<br>
   
