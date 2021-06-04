@@ -1,4 +1,4 @@
-## Photos
+<strong>Photos<strong>
 <br>
 <img alt="Personal Photo" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210304110631.jpg?raw=true" width="500">
 <br>2003
