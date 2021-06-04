@@ -16,7 +16,7 @@
     <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/">Porocity</a></strong>  <br/>By LYLA+ERIN+HANNAH
     </td>
     <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">Stacking</a></strong><br/>    
-by: <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index">Carol</a>, <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index">Corina</a>, & <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Flora/index">Flora</a><br/>
+by: <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index">Carol</a>, <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index">Corina</a>, & <a href="https://zmrflora.github.io/Portfolio/">Flora</a><br/>
 Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(film)">Ready Player One</a>, and including historical examples such as the 
       <a href="https://www.mvrdv.nl/projects/13/vertical-village">Vertical Village</a> and <a href="https://thewhyfactory.com/project/wego-tailor-made-housing">Wego City.</a></td>
     <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index">Floating</a></strong>  </br>
