@@ -4,8 +4,7 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
  <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210304194711.jpg?raw=true" width="300">
   <br>  <br> 
 **More Information** 
-
- [Portfolio](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/resume.png?raw=true)
+ <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/resume.png?raw=true" width="300">
 
 ## Projects
 
