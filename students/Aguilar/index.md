@@ -7,7 +7,10 @@
 [INSPIRATIONS](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/inspiration)
 <br/>
 
+
 ## Project
+[PORTFOLIO](https://architecture88620687.wordpress.com/)
+<br/>
 
 
 
