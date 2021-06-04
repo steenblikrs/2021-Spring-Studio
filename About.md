@@ -62,7 +62,8 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Bella/index"><b>Bella</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index"><b>Latika</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index"><b>Ted</b></a></td>
-    </tr>
+   </tr>
+     
   </table>
 
 <br/><br/>
