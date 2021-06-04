@@ -1,5 +1,3 @@
-[Sarry Website Homepage](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index)
-
 <strong>Internship<strong>
   <br>
 [Zhejiang Natural Architecture Design Institute (浙江天然建筑设计院)](http://www.zjtianran.com/)
