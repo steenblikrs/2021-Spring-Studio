@@ -15,4 +15,5 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
 
 ### Project 3: OASIS STITCHING
 Collages <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/Zhou%20Rui%20A04%20gif.gif?raw=true" width="300">
+
 [Blog Post](https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/)
