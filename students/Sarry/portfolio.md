@@ -1,4 +1,4 @@
-Portfolio
+<strong>Portfolio<strong>
 
 [Resume](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/Sarry%20(Dong%20Zhiling)%20Resume.png?raw=true)
 <br><img alt="Resume" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/Sarry%20(Dong%20Zhiling)%20Resume.png?raw=true" width="100%">
