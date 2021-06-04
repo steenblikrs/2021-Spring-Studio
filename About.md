@@ -41,6 +41,17 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
   </tr></table>
 <br/><br/>
 
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index"><img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Aguilar/ASSETS/students/Aguilar/ASSETS/去色照.jpg?raw=true" width="200"></a></td>
+   </tr><tr style="border: none;">
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index"><b>Aguilar</b></a></td>
+     </tr></table>
+<br/><br/>
+
+https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/About
+
+
 **[Aguilar](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index)
 <br/>
 [Rachel](https://nuoyingc.github.io/)
