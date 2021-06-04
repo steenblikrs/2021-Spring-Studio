@@ -23,4 +23,5 @@ Group Member: Rose, Mia, Matthew
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/Zhou%20Rui%20A04%20gif.gif?raw=true" width="300">
 
 #### Blog Post
+ <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210604110614.png?raw=true" width="300">
 [OASIS STITCHING](https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/)
