@@ -9,5 +9,5 @@
  <br>
 [Internship](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/internship)
  <br>
-### 6. [Spline](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/spline)
+[Spline](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/spline)
  
