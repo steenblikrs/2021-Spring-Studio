@@ -6,7 +6,8 @@
 ## Research
 [INSPIRATIONS](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/inspiration)
 <br/>
-
+[REPRESENTATION SOFTWARE LEARNING](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/representation)
+<br/>
 
 ## Project
 [PORTFOLIO](https://architecture88620687.wordpress.com/)
