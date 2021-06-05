@@ -29,12 +29,12 @@ Moreover, it can optimize land use. help combat inequality and counteract the fo
 
 
 ### Technical
-The Stacks<br>
+**The Stacks<br>
 <img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/the%20stacks-drawing.jpg?raw=true" width="500"><br>
 This building is made by dozens of trailers and similar mobile living quarters, and they are stacked on top of each other, held together by metal beams, pipes and makeshift girders. But considering the economic situation and whole context settled in the film, this is a good way to save space, labor, money and resources, even though it is overcrowded. <br>
 
 #### First example
-SALÓN VERDE, MVRDV, Madrid, Spain, 2021
+**SALÓN VERDE, MVRDV, Madrid, Spain, 2021
 <br>
 <img alt="MVRDV" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/mvrdv%20public-1.jpg?raw=true" width="500"><br>
 The problem of this site is how to transform the financial sector into an open and sustainable urban space for the city. So the main strategy of the architect is to create a green “living room” for the city, they apply a multi-story frame structure to add a new way to experience the district and use water pools and trees to adapt to the seasons change. 
@@ -48,7 +48,7 @@ The first step they did is to demolish all redundant structures such as pavement
 The most distinguished structure here is the multi-level prefabricated structure around the plaza. Together with different species of trees on each level, the structure creates dramatic shade and sunlit terraces for lounging throughout the year. 
 
 #### Second example
-Church + Wellesley, 3XN, Toronto, Canada, 2019
+**Church + Wellesley, 3XN, Toronto, Canada, 2019
 <br>
 <img alt="3NX" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/3xn%20rendering.jpg?raw=true" width="250"><br>
 <img alt="3NX" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/3xn%20diagram.jpg?raw=true" width="500"><br>
