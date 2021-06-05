@@ -10,6 +10,7 @@ A Senior student in [Michael Graves College School of Public Architecture](http:
 
 <br><img alt="Rita" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/8bca0a9cc4db727e5acc47813a8c86f805124859/students/Rita/Resume.png?raw=true" width="500">
 <br>
+<br>
 
 
 ## Group Research
