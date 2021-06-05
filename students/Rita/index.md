@@ -15,3 +15,6 @@ A Senior student in [Michael Graves College School of Public Architecture](http:
 
 ## Group Research
 
+<iframe src="https://docs.google.com/presentation/d/1V8O_qlWNjWJYdcP88nuSf0TDE-uHnHy8mbBtK_2QXtI/edit#slide=id.p1" frameborder="0" width="649" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Group Member: Rita, Luna, Shannon
