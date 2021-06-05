@@ -54,7 +54,7 @@ Graham McKay and R. Spencer Steenblik have been running the 3rd year architectur
  <tr style="border: none;"> 
   <td style="border: none;"><a href="https://wuhaozhuo.cargo.site"><img alt="Anita" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/anita/WechatIMG2162.jpeg" width="200"></a></td>
    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Bella/index"><img alt="Bella" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210604135645.jpg" width="200"></a></td>
-   <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index"><img alt="Latika" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Latika/Latika_photo.png" width="200"></a></td>
+   <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index"><img alt="Latika" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Latika/Latika_photo.png?raw=true" width="200"></a></td>
    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index"><img alt="Ted" 
 src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335eae901c8c8c22b4b77fc29/students/Ted/ted1.jpg?raw=true" width="200"></a></td>
    </tr><tr style="border: none;">
