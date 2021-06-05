@@ -8,7 +8,8 @@ Junior student from [Michael Graves College School of Public Architecture](http:
 
 ## Resume
 
-<br><img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/Resume%20Carol.jpg?raw=true" width="500">
+<br><img alt="Rita" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/8bca0a9cc4db727e5acc47813a8c86f805124859/students/Rita/Resume.png?raw=true" width="500">
 <br>
+
 
 ## Group Research
