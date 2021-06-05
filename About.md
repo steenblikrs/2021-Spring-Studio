@@ -70,8 +70,7 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
    </tr><tr style="border: none;">
   <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><b>Alex</b></a></td>
   <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Charlo/index"><b>Charlo</b></a></td>
-   </tr>
-     
+   </tr>    
   </table>
 
 <br/><br/>
