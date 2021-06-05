@@ -10,7 +10,7 @@
 Exhibition at Museum of Tomorrow in Taipei (5 Oct 2011 - 8 Jan 2012)
 <br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/vertical%20village%20exhibition-1.jpg?raw=true" width="300"><br>
 <img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/vertical%20village-exhibition-2.jpg?raw=true" width="300"><br>
-“The Vertical Village” exhibition explored the topic of rapid urban transformation in East Asia, the qualities of urban villages and the potential to realize this in a much denser, vertical way as a radical alternative to the identical block architecture with standard apartments and its consequences for the city. 
+“The Vertical Village” exhibition explored the topic of rapid urban transformation in East Asia, the qualities of urban villages and the potential to realize this in a much denser, vertical way as a radical alternative to the identical block architecture with standard apartments and its consequences for the city. 
 <br>
 **Who is vertical village for?**<br>
 The vertical village exhibition offers a parametric tool for a developer to create an environment that is an alternative to the "Block Attack". The tool will help the developer to bring personal freedom, diversity, flexibility and neighborhood life back into East Asian cities, and yet the tool can also contribute to the discussion in a European context. <br>
@@ -54,6 +54,16 @@ Church + Wellesley, 3XN, Toronto, Canada, 2019
 <img alt="3NX" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/3xn%20diagram.jpg?raw=true" width="500"><br>
 <img alt="3NX" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/3xn_church_and_wellesley_08_diagram.jpg?raw=true" width="500"><br>
 The tower is divided into four separate masses, literally called “vertical village”. The building has two identities, one for the Church street, which is low-rise and retail, another is for the urban street, more conventional tall building reflecting the urban development. 
+
+### Collages
+#### Carol
+<br>
+
+#### Corina
+<br>
+
+#### Flora
+<img alt="Flora's Collage" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Flora-rep-gif.gif?raw=true" width="250"><br>
 
 
 
