@@ -18,4 +18,5 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 <br/> 
  [Representation Software](https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/representation)
 <br/>
-    
+ [PORTFOLIO](https://ted2517.wordpress.com/)
+<br/>   
