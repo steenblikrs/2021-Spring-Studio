@@ -14,11 +14,16 @@ Junior student from Wenzhou Kean University, Michael Graves College, School of P
 
 ## [Precedence](https://github.com/steenblikrs/2021-Spring-Studio/blob/0bedf5ba17bf2f22a3b7667059f2b8ab0abb9e77/students/Alex/information.md)
  <br/>
+ 
+ ## Representation Works
+ [ARCH 2304](https://drive.google.com/file/d/1eXHmP8ZVlI4m20_T8KK6gCz2P9_FQj_v/view?usp=sharing)
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//api2.enscape3d.com/v3/view/79558fd3-0fea-462c-bed7-f39bde2e9d5c&autoLoad=true"></iframe>
  <br/>
  
+ 
+ 
 
 
- ## Project
+ ## ProjectS
 [Portfolio](https://yupengguo.wordpress.com)
 <br/>
