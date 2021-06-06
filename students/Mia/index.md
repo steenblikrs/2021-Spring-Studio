@@ -14,6 +14,8 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
 ### Project 1：COOKING SCHOOL
 [COOKING SCHOOL](https://mmmmiiiaaaaaa.cargo.site/admin/content)
 
+ <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E6%9C%AA%E5%91%BD%E5%90%8D-4.png?raw=true" width="300">
+
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/00.gif?raw=true" width="300">
 
 ### Project 2：THEATER WITH WATER
