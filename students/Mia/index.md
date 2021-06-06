@@ -1,4 +1,5 @@
 # Zhou Rui 
+
 ## Introduction
 A junior student from Wenzhou-Kean University, Michael Graves College, School of Public Architecture.
  <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210304194711.jpg?raw=true" width="300">
@@ -8,15 +9,23 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
  [Reseme](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/resume.png?raw=true)
  
  [Webside](https://mmmmiiiaaaaaa.cargo.site/)
+ 
 
+
+ <br>  <br> 
 ## Projects
 
 ### Project 1：COOKING SCHOOL
+
 [COOKING SCHOOL](https://mmmmiiiaaaaaa.cargo.site/COOKING-SCHOOL)
 
-<img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E6%9C%AA%E5%91%BD%E5%90%8D-4.png?raw=true" width="300">
-
+<img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E6%9C%AA%E5%91%BD%E5%90%8D-4.png?raw=true" width="300"> 
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/00.gif?raw=true" width="300">
+
+
+
+<br>  <br> 
+<br>  <br> 
 
 ### Project 2：THEATER WITH WATER
 [THEATER WITH WATER](https://mmmmiiiaaaaaa.cargo.site/THEATER-WITH-WATER)
@@ -25,6 +34,9 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
 
 
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/Gif.gif?raw=true" width="300">
+
+<br>  <br> 
+<br>  <br>
 
 ### Project 3: OASIS STITCHING
 #### Group Research
