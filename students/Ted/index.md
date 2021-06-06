@@ -20,3 +20,6 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 <br/>
  [Portfolio](https://ted2517.wordpress.com/)
 <br/>   
+ <img alt="Ted" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6cfce96b97c34f683f881772737bb6d9ca5cda65/students/Ted/857732368701888582.png?raw=true" width="300">
+<br>
+QR Code for our video
