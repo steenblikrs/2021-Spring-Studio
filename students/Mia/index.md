@@ -8,7 +8,7 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
  <br>  <br> 
  [Reseme](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/resume.png?raw=true)
  
- [Webside](https://mmmmiiiaaaaaa.cargo.site/)
+ [Self Project Webside](https://mmmmiiiaaaaaa.cargo.site/)
  
 
 
