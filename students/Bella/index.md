@@ -34,6 +34,16 @@
 [Representation homework]
 <Br>GIF
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/Weihan_Zheng_GIF.gif?raw=true" width="300">
+Photospheres / GIF
+
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/Pan.jpg">
+
+![GIF1] (https://github.com/steenblikrs/2021-Spring-Studio/blob/0b2edb8e72c8b936f53df8cd350717670a793a6d/students/Aguilar/ASSETS/Feng%20Gu_A04_%231.gif?raw=true "GIF1")
+![GIF2] (https://github.com/steenblikrs/2021-Spring-Studio/blob/0b2edb8e72c8b936f53df8cd350717670a793a6d/students/Aguilar/ASSETS/Feng%20Gu_A04_%232.gif?raw=true "GIF2")  
+  
+  
+  
+  
 <Br>Photospheres
   <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/Pan.jpg&autoLoad=true">
 <Br>Video Game Engines Screen Shoot
