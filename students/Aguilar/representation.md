@@ -5,8 +5,8 @@
 <br/>
 <br/>
 
-[![GIF1](https://github.com/steenblikrs/2021-Spring-Studio/blob/8d4d9881ccddeab7cce32ebcb0d9482cdd1aee21/students/Aguilar/ASSETS/Feng%20Gu_A04_%231.gif.gif?raw=true "GIF1")]()
+[![GIF1](https://github.com/steenblikrs/2021-Spring-Studio/blob/8d4d9881ccddeab7cce32ebcb0d9482cdd1aee21/students/Aguilar/ASSETS/Feng%20Gu_A04_%231.gif?raw=true "GIF1")]()
 <br/> 
-[![GIF2](https://github.com/steenblikrs/2021-Spring-Studio/blob/8d4d9881ccddeab7cce32ebcb0d9482cdd1aee21/students/Aguilar/ASSETS/Feng%20Gu_A04_%232.gif.gif?raw=true "GIF2")]()
+[![GIF2](https://github.com/steenblikrs/2021-Spring-Studio/blob/8d4d9881ccddeab7cce32ebcb0d9482cdd1aee21/students/Aguilar/ASSETS/Feng%20Gu_A04_%232.gif?raw=true "GIF2")]()
 <br/> 
 
