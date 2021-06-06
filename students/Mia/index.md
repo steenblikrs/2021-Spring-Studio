@@ -5,14 +5,20 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
   <br>  <br> 
 **More Information** 
  <br>  <br> 
- <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/resume.png?raw=true" width="300">
+ [Reseme](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/resume.png?raw=true)
+ 
+ [Webside](https://mmmmiiiaaaaaa.cargo.site/admin/content)
 
 ## Projects
 
 ### Project 1：COOKING SCHOOL
+[COOKING SCHOOL](https://mmmmiiiaaaaaa.cargo.site/admin/content)
+
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/00.gif?raw=true" width="300">
 
 ### Project 2：THEATER WITH WATER
+[THEATER WITH WATER](https://mmmmiiiaaaaaa.cargo.site/admin/19986768)
+
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/Gif.gif?raw=true" width="300">
 
 ### Project 3: OASIS STITCHING
@@ -25,6 +31,7 @@ Group Member: Rose, Mia, Matthew
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/Zhou%20Rui%20A04%20gif.gif?raw=true" width="300">
 
 #### Blog Post
- <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210604110614.png?raw=true" width="300">
- 
 [OASIS STITCHING](https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/)
+
+ <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210604110614.png?raw=true" width="300">
+
