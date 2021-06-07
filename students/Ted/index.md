@@ -14,8 +14,6 @@ Spring 2021 Wenzhou<br>
 # Inspiration
   [Reference]( https://github.com/steenblikrs/2021-Spring-Studio/blob/b84488731ba3b69f4567d950802c56fad158e24c/students/Ted/reference.md)
 <br/> 
- [Representation Software](https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/representation)
-<br/>
  [Portfolio](https://ted2517.wordpress.com/)
 <br/>   
  <img alt="Ted" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6cfce96b97c34f683f881772737bb6d9ca5cda65/students/Ted/857732368701888582.png?raw=true" width="300">
