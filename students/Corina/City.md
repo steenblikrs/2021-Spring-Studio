@@ -15,3 +15,7 @@ Transportation and communication.
 
 Photosphere:
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Corina/quan2.jpg"></iframe>
+
+Gif development
+<img alt="Corina's Collage" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/99.gif?raw=true" width="250"><br>
+<img alt="Corina's Collage" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/11.gif?raw=true" width="250"><br>
