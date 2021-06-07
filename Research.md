@@ -49,7 +49,11 @@ Inspired by the [USC WBML](https://worldbuilding.usc.edu/) "Spaceship Earth 2050
 
 <strong>C.J., Harry, Lance</strong>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNjG565_2GiMWgezXsS_V67huWbOUbBTyfnys6IYD4OlH0Qn7mI8iZMBs5I7zN5w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br/>
+<br/>
 
+<strong>Stafford, Antonio</strong>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFg0azgxfwYcTf3IZoW-SHBWmAbhGO0yCoIcjpmaWfMuviWCQR_PjGaNEcOCHHMLv-mBMsVXrZtfdd/embed?start=true&loop=true&delayms=3000" frameborder="0" width="426" height="740" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 **<a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index">City of a Thousand Planets</a>**
 
