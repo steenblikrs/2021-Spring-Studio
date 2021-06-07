@@ -44,6 +44,6 @@ Junior student from Wenzhou Kean University, Michael Graves College, School of P
  
 
 
-## ProjectS
+## Other Projects
 [Portfolio](https://yupengguo.wordpress.com)
 <br>
