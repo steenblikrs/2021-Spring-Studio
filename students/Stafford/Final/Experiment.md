@@ -29,6 +29,4 @@
   <br>
 <strong>SPLINE</strong>
   <br>
-  <br>
-  <br>
 <iframe src='https://my.spline.design/untitled-b7435cc6b46ec86b60459567ff80c3a7/' frameborder='0' width='60%' height='200%'></iframe>
