@@ -23,7 +23,7 @@
  <br>
  [REBORN TOMB](https://www.youtube.com/watch?v=rl139z79WKI&list=PLcuUYa3FA_ejZMAtBNkN_NZVLdSl8lVjB&index=2) 
   <br>
- [CLOUD CITY](https://www.youtube.com/watch?v=rl139z79WKI&list=PLcuUYa3FA_ejZMAtBNkN_NZVLdSl8lVjB&index=2)
+ [CLOUD CITY](https://www.youtube.com/watch?v=E7mY8IJuwqc)
   <br>
   <br>
 <strong>SPLINE</strong>
