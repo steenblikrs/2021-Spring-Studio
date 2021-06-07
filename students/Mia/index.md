@@ -51,4 +51,7 @@ Group Member: Rose, Mia, Matthew
 [OASIS STITCHING](https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/)
 
  <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210604110614.png?raw=true" width="300">
+ 
+ #### Photosphere
+ <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Mia/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%259B%25BE%25E7%2589%2587_20210607163451.jpg&autoLoad=true"></iframe>
 
