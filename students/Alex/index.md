@@ -7,7 +7,7 @@ Junior student from Wenzhou Kean University, Michael Graves College, School of P
 
 ## Group Research
 <br/>
-## [Precedence](https://github.com/steenblikrs/2021-Spring-Studio/blob/0bedf5ba17bf2f22a3b7667059f2b8ab0abb9e77/students/Alex/information.md)
+## [Precedence](https://github.com/steenblikrs/2021-Spring-Studio/blob/0bedf5ba17bf2f22a3b7667059f2b8ab0abb9e77/students/Alex/information)
 <br/>
 ##[Representation Works](https://drive.google.com/file/d/1eXHmP8ZVlI4m20_T8KK6gCz2P9_FQj_v/view?usp=sharing)
 <br/>
