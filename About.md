@@ -127,12 +127,7 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
 **[Charlo](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Charlo/index.md)**
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 
