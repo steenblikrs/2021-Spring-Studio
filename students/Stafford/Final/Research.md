@@ -1,5 +1,4 @@
 
-# Stafford Research
 
 <strong>Isozaki's Intensity</strong>
 <br>
