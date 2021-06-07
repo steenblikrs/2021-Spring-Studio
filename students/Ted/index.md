@@ -26,4 +26,6 @@ QR Code for our video
 
 Link to video https://www.youtube.com/watch?v=SPzjdaDu_VI
 
-<iframe src="https://www.youtube.com/watch?v=SPzjdaDu_VI" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Alex/pic/photosphere.jpg&autoLoad=true"></iframe>
+
+<br> 
