@@ -31,8 +31,6 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
 [THEATER WITH WATER](https://mmmmiiiaaaaaa.cargo.site/THEATER-WITH-WATER)
 
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E6%9C%AA%E5%91%BD%E5%90%8D-42.png?raw=true" width="300">
-
-
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/Gif.gif?raw=true" width="300">
 
 <br>  <br> 
