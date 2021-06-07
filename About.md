@@ -80,8 +80,10 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
     <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com/"><img alt="Stafford" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/xjpic%202.jpeg?raw=true" width="180"></a></td>
+    <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com/"><img alt="Grace" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Grace/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210607171954.jpg?raw=true" width="200"></a></td>
   </tr><tr style="border: none;">
-    <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
+  <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
+  <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
   </tr>
   
    </table>
