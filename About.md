@@ -80,10 +80,11 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
     <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com/"><img alt="Stafford" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/xjpic%202.jpeg?raw=true" width="180"></a></td>
-    <td style="border: none;"><a href="https://gracelll00.cargo.site/"><img alt="Grace" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Grace/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210607171954.jpg?raw=true" width="200"></a></td>
+  <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/CJ/index"><img alt="CJ Wang" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/e320534c79c850cbc8875229ce05b4f99d29d318/students/CJ/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210607161342.jpg?raw=true" width="200"></a></td>
   </tr><tr style="border: none;">
-  <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
-  <td style="border: none;"><a href="https://gracelll00.cargo.site/"><b>Grace</b></a></td>
+    <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/CJ/index"><b>CJ Wang</b></a></td>
+      
   </tr>
   
    </table>
