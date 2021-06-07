@@ -25,3 +25,5 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 QR Code for our video
 
 Link to video https://www.youtube.com/watch?v=SPzjdaDu_VI
+
+<iframe src="https://www.youtube.com/watch?v=SPzjdaDu_VI" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
