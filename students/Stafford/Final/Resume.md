@@ -1,4 +1,4 @@
-# RESUME
+
 <br>
 ## [RESUME DOWNLOAD](https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Trial/Resume.pdf) 
 <br>
