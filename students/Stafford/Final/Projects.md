@@ -11,5 +11,5 @@
 <br>
 <br>
  SHARE OFFICE 2019 FALL
- <br><img alt="rep" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/studio%203.gif?raw=true" width="7
+<br><img alt="rep" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/studio%203.gif?raw=true" width="700">
 <br>
