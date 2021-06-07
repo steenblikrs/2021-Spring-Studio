@@ -62,7 +62,7 @@ The tower is divided into four separate masses, literally called “vertical vil
 
 #### Corina
 <br>
-<img alt="Corina's Collage" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/99.gif?raw=true" width="250"><br>
+<img alt="Corina's Collage" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/99.gif?raw=true" width="250"><br>
 #### Flora
 <img alt="Flora's Collage" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Flora-rep-gif.gif?raw=true" width="250"><br>
 
