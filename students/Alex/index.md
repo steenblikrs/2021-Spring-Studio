@@ -8,7 +8,7 @@
  
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Alex/pic/photosphere.jpg&autoLoad=true"></iframe>
 
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Alex/pic/photosphere.jpg&autoLoad=true"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://www.youtube.com/watch?v=SPzjdaDu_VI"></iframe>
 
 
 <iframe src="https://api2.enscape3d.com/v1/view/fc125a9d-89b2-4453-a377-607659dd4a83" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
