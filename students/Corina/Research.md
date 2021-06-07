@@ -20,5 +20,8 @@ Moreover, it applies the modular system developed which combining cubic volumes.
 **Case Study 4:Habitat 67 / Safdie Architects**
 <br><img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/R1.jpg?raw=true" width="300">
 <img alt="Corina" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/R2.jpg?raw=true" width="300"><br>
-By creating the flexible block, we can solve the problem of air inefficiency and insufficient lighting caused by the same height of the building. Meanwhile, we can form a dynamic building height, and creating more facades for windows both interior and exterior.
+By creating the flexible block, we can solve the problem of air inefficiency and insufficient lighting caused by the same height of the building. Meanwhile, we can form a dynamic building height, and creating more facades for windows both interior and exterior.<br><br><br>
+
+Video<br>
+
 
