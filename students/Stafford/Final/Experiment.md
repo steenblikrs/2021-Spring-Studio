@@ -1,5 +1,4 @@
 
-# Experiment
 <strong>COLLAGE</strong>
 <br>
 <img alt="rep" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/Trial/1615489116201.gif?raw=true" width="300">
