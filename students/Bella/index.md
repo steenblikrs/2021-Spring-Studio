@@ -36,7 +36,7 @@
  <Br> <img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-08%20043953.jpg?raw=true" width="300">
     <Br> <img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-08%20044008.jpg?raw=true" width="300">
  <Br> <img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-08%20044022.jpg?raw=true" width="300">
-<Br[Representation homework]
+<Br>[Representation homework]
 <Br>GIF
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/Weihan_Zheng_GIF.gif?raw=true" width="300">
 <Br>Photospheres / GIF
