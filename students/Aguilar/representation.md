@@ -1,7 +1,7 @@
 **Photospheres / GIF**
 
 
-<iframe width="800" height="640" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Aguilar/ASSETS/CCCCCCCCCCCCC.jpg&autoLoad=true"></iframe>
+<iframe width="800" height="533" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Aguilar/ASSETS/CCCCCCCCCCCCC.jpg&autoLoad=true"></iframe>
 
 <br/>
 <br/>
@@ -15,7 +15,7 @@
     </tr>
   </table>
   <br/>
-
+<br/><br/><br/><br/><br/><br/>
 
 
   
