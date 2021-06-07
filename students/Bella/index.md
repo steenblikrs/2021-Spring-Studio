@@ -31,22 +31,19 @@
 <Br>Time: 2019 Spring
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/rep3.gif?raw=true" width="300">
 ## Project4
-[Representation homework]
+[portfolio]
+ <Br> https://drive.google.com/file/d/1xxP4G_OQVuL6ovf5VyJjJNH3jzZDLyj3/view
+ <Br> <img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-08%20043953.jpg?raw=true" width="300">
+    <Br> <img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-08%20044008.jpg?raw=true" width="300">
+ <Br> <img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-08%20044022.jpg?raw=true" width="300">
+<Br[Representation homework]
 <Br>GIF
 <Br><img alt="Bella" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Bella/Weihan_Zheng_GIF.gif?raw=true" width="300">
-Photospheres / GIF
-
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/Pan.jpg">
-
-![GIF1] (https://github.com/steenblikrs/2021-Spring-Studio/blob/0b2edb8e72c8b936f53df8cd350717670a793a6d/students/Aguilar/ASSETS/Feng%20Gu_A04_%231.gif?raw=true "GIF1")
-![GIF2] (https://github.com/steenblikrs/2021-Spring-Studio/blob/0b2edb8e72c8b936f53df8cd350717670a793a6d/students/Aguilar/ASSETS/Feng%20Gu_A04_%232.gif?raw=true "GIF2")  
-  
-  
-  
-  
+<Br>Photospheres / GIF
+<Br>https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/Pan.jpg&autoLoad=true
 <Br>Photospheres
-  <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/Pan.jpg&autoLoad=true">
-<Br>Video Game Engines Screen Shoot
+https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Bella/Pan.jpg&autoLoad=true
+
   
   
   
