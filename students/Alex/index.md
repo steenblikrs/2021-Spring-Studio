@@ -1,7 +1,7 @@
 # Alex | Guo Yupeng | 1098761
 
 ## Introduction
-<img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/students/Alex/pic/%E7%85%A7%E7%89%87.jpg?raw=true" width="300">
+<img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/ca8b3ec8df933eee623b630cbf095d3e9ef51056/students/Alex/pic/%E7%85%A7%E7%89%87.jpg?raw=true" width="300">
 <br>
 Junior student from Wenzhou Kean University, Michael Graves College, School of Public Architecture.
 
