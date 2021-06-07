@@ -13,7 +13,10 @@ Group Member: Rose, Mia, Matthew
 
 
 ## Project
-(To be continued...)
+
+
+[Personal Web](https://rosee.cargo.site/)
+<br/>
 
 
 [Simple](https://steenblikrs.github.io/2021-Spring-Studio/students/Rose/simple.md)
