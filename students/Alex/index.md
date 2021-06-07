@@ -24,8 +24,9 @@ Junior student from Wenzhou Kean University, Michael Graves College, School of P
  [ARCH 2304](https://drive.google.com/file/d/1eXHmP8ZVlI4m20_T8KK6gCz2P9_FQj_v/view?usp=sharing)
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//api2.enscape3d.com/v3/view/79558fd3-0fea-462c-bed7-f39bde2e9d5c&autoLoad=true"></iframe>
 
+<br/> 
 [Navigable experience in the environment](https://api2.enscape3d.com/v1/view/fc125a9d-89b2-4453-a377-607659dd4a83)
- <br/>
+<br/>
  
  
  
