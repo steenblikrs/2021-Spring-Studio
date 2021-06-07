@@ -17,7 +17,7 @@
 <strong>AFTER EFFECT</strong>
 <br>
 <img alt="rep" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/Trial/%E5%9C%B0%E9%9C%87.gif?raw=true" width="300">
-
+<img alt="rep" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/Trial/Components.gif?raw=true" width="300">
 <br>
 <strong>ANIMATION</strong>
  <br>
