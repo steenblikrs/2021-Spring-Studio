@@ -39,7 +39,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 Inspired by the [USC WBML](https://worldbuilding.usc.edu/) "Spaceship Earth 2050". This research is focusing on closed ecosystems such as rotating wheel spaceship, etc.
 
 <strong>Aguilar, Matthew, Rose Research</strong>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbMaHjGB0clBZ8iXI7JcFHuVuF1FElVrDrA-gac5hmn6gwlhNOUGgMD0ELDModmtTqCHXWuAswJKx0/pub?start=true&loop=true&delayms=5000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbMaHjGB0clBZ8iXI7JcFHuVuF1FElVrDrA-gac5hmn6gwlhNOUGgMD0ELDModmtTqCHXWuAswJKx0/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br/>
 
 <strong>C.J., Harry, Lance</strong>
