@@ -16,6 +16,11 @@ Junior student from Wenzhou Kean University, Michael Graves College, School of P
  <br/>
  
  ## Representation Works
+ 
+  <br/>
+ <img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/01.gif?raw=true" width="300">
+ <img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/02.gif?raw=true" width="300">
+ 
  [ARCH 2304](https://drive.google.com/file/d/1eXHmP8ZVlI4m20_T8KK6gCz2P9_FQj_v/view?usp=sharing)
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//api2.enscape3d.com/v3/view/79558fd3-0fea-462c-bed7-f39bde2e9d5c&autoLoad=true"></iframe>
  <br/>
