@@ -64,7 +64,6 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index"><b>Latika</b></a></td>
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index"><b>Ted</b></a></td>
   </tr>
-
  <tr style="border: none;">
       <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/9b8084b4def99361dbedbb20e3b37b5dd6670d39/students/Alex/pic/%E7%85%A7%E7%89%87.jpg?raw=true" width="200"></a></td>
    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Charlo/index"><img alt="Charlo" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/e9c7c551dd7f1ec16c7bbffcf909c000d000174e/students/Charlo/%E7%85%A7%E7%89%87%202021_6_4%2023_14_56.png?raw=true" width="200"></a></td>
@@ -84,6 +83,8 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
     <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com/"><img alt="Stafford" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/xjpic%202.jpeg?raw=true" width="200"></a></td>
   </tr><tr style="border: none;">
     <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
+ 
+      
       
    </table>
   
