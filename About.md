@@ -78,6 +78,12 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
   <td style="border: none;"><a href="https://jiayiny.wixsite.com/mysite"><b>Hannah</b></a></td>
   <td style="border: none;"><a href="https://github.com/steenblikrs/2021-Spring-Studio/blob/81b12cb470d56e2d9feda48236a1a00ed895d5ac/students/Rita/index.md"><b>Rita</b></a></td>
    </tr>
+  
+    <table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com/"><img alt="Stafford" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/xjpic%202.jpeg?raw=true" width="200"></a></td>
+  </tr><tr style="border: none;">
+    <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
    </table>
   
 
