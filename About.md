@@ -88,7 +88,7 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
   
   <tr style="border: none;">
   <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
-  <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/CJ/index"><b>CJ Wang</b></a></td>
+  <td style="border: none;"><a href="https://chunjiew.wordpress.com/"><b>CJ Wang</b></a></td>
   <td style="border: none;"><a href="https://lylayaoarchitectural.cargo.site/"><b>Lyla</b></a></td>
   <td style="border: none;"><a href="https://yuyangtong.wordpress.com/"><b>Matthew</b></a></td>
    </tr>
