@@ -7,7 +7,7 @@
 <br>
 <br>
  SU FASHION HOUSE 2020 FALL
-<img alt="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/studio%20b.gif" width="400">
+<img alt="Stafford" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/studio%20b.gif" width="400">
 <br>
 <br>
  SHARE OFFICE 2019 FALL
