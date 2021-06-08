@@ -105,7 +105,7 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
     <td style="border: none;"><a href="https://nuoyingc.wixsite.com/web1"><b>Rachel</b></a></td>
     <td style="border: none;"><a href="https://lylayaoarchitectural.cargo.site/"><b>Lyla</b></a></td>
     <td style="border: none;"><a href="https://chunjiew.wordpress.com/"><b>CJ Wang</b></a></td>
-    <td style="border: none;"><a href="https://https://yiyanglll.cargo.site/"><b>Erin</b></a></td>
+    <td style="border: none;"><a href="https://yiyanglll.cargo.site/"><b>Erin</b></a></td>
   </tr>
    
    </table>
