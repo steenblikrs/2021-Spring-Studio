@@ -13,7 +13,7 @@
 </td>
 </tr>
 <tr>
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/">Porocity</a></strong>  <br/>By LYLA+ERIN+HANNAH
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/">Porocity</a></strong>  <br/>By <a href="https://lylayaoarchitectural.cargo.site/">LYLA</a>+<a href="https://jiayiny.wixsite.com/mysite/">HANNAH</a>+ERIN
 </td>
 <td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">Stacking</a></strong><br/>    
 by: <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index">Carol</a>, <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index">Corina</a>, & <a href="https://zmrflora.github.io/Portfolio/">Flora</a><br/>
