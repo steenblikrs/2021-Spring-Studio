@@ -31,7 +31,8 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
   <tr style="border: none;">
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">
          <img alt="STAFFORD PROJECTS" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stafford%20Research/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210608132711.png" width="265"></a>
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">REBORN TOMB</a></strong>  <br/>By STAFFORD  
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">REBORN TOMB</a></strong>  <br/>
+  <br/>By <a href="https://dvcwskbmei.mobirisesite.com/">Stafford</a>
 </td>
 </tr>   
 <tr style="border: none;"> 
@@ -70,8 +71,6 @@ Inspired by the [USC WBML](https://worldbuilding.usc.edu/) "Spaceship Earth 2050
 <br/>
 <br/>
 
-<strong>Stafford, Antonio</strong>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFg0azgxfwYcTf3IZoW-SHBWmAbhGO0yCoIcjpmaWfMuviWCQR_PjGaNEcOCHHMLv-mBMsVXrZtfdd/embed?start=true&loop=true&delayms=3000" frameborder="0" width="426" height="740" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 **<a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index">City of a Thousand Planets</a>**
 
