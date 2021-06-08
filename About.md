@@ -95,6 +95,7 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
    <tr style="border: none;">
     <td style="border: none;"><a href="https://nuoyingc.wixsite.com/web1"><img alt="Rachel" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Rachel/照片.png?raw=true" width="200"></a></td>
     <td style="border: none;"><a href="https://lylayaoarchitectural.cargo.site/"><img alt="Lyla" src="https://steenblikrs.github.io/2021-Spring-Studio/students/Lyla/E8C5B0D3B2139F848F11408EC78E3A74.png?raw=true" width="200"></a></td>
+     <td style="border: none;"><a href="https://lylayaoarchitectural.cargo.site/"><img alt="Lyla" src="https://steenblikrs.github.io/2021-Spring-Studio/students/Lyla/E8C5B0D3B2139F848F11408EC78E3A74.png?raw=true" width="200"></a></td>
 </tr>     
      
     
@@ -102,6 +103,7 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
   <tr style="border: none;">
     <td style="border: none;"><a href="https://nuoyingc.wixsite.com/web1"><b>Rachel</b></a></td>
     <td style="border: none;"><a href="https://lylayaoarchitectural.cargo.site/"><b>Lyla</b></a></td>
+    <td style="border: none;"><a href="https://chunjiew.wordpress.com/"><b>CJ Wang</b></a></td>
   </tr>
    
    </table>
