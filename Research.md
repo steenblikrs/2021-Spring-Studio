@@ -34,7 +34,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
     
     
 <tr style="border: none;"> 
-  <td style="border: none;"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1"><img alt="Arcology" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/050b1fbbb115cdf089082b5035bcef3b69f9918f/students/Alex/pic/a22.jpg" width="250"></a></td>
+  <td style="border: none;"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1"><img alt="Arcology" src="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/pic/a22.jpg" width="250"></a></td>
     </tr>
  
   <tr style="border: none;">
