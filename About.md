@@ -110,18 +110,14 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
 
   <tr style="border: none;">
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/index"><img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a24c31c627a1ef6f747f4c9dae0faccae58f34f/students/Huey/picture/WIN_20210305_00_29_25_Pro%20(2).jpg?raw=true" width="200"></a></td>
-    <td style="border: none;"><a href="https://lylayaoarchitectural.cargo.site/"><img alt="Lyla" src="https://steenblikrs.github.io/2021-Spring-Studio/students/Lyla/E8C5B0D3B2139F848F11408EC78E3A74.png?raw=true" width="200"></a></td>
-     <td style="border: none;"><a href="https://chunjiew.wordpress.com/"><img alt="CJ" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/992cd748a997de715caec92f9c38e40cbe1061f8/students/CJ/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210607161342.jpg?raw=true" width="200"></a></td>
-     <td style="border: none;"><a href="https://yiyanglll.cargo.site/"><img alt="Erin" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Hannah/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210608215102.jpg?raw=true" width="200"></a></td>
+
 </tr>     
      
     
   
   <tr style="border: none;">
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/index"><b>Huey</b></a></td>
-    <td style="border: none;"><a href="https://lylayaoarchitectural.cargo.site/"><b>Lyla</b></a></td>
-    <td style="border: none;"><a href="https://chunjiew.wordpress.com/"><b>CJ Wang</b></a></td>
-    <td style="border: none;"><a href="https://yiyanglll.cargo.site/"><b>Erin</b></a></td>
+
   </tr>   
    </table>
   
