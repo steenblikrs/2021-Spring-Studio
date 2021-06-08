@@ -5,8 +5,6 @@
 <br>
 <iframe src="https://i.simmer.io/@Yixin/holy-land" style="width:960px;height:600px;border:0"></iframe>
 <br>
-<strong>REBORN TOMB</strong>
-<br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rl139z79WKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
