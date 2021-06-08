@@ -23,5 +23,8 @@ QR Code for our video
 Link to video https://www.youtube.com/watch?v=SPzjdaDu_VI
 
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Alex/pic/photosphere.jpg&autoLoad=true"></iframe>
-
+<img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/01.gif?raw=true" width="300">
+<img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/02.gif?raw=true" width="300">
 <br> 
+<iframe width="600" height="330" src="https://www.youtube.com/embed/SPzjdaDu_VI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://api2.enscape3d.com/v1/view/fc125a9d-89b2-4453-a377-607659dd4a83" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
