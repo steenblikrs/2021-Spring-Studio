@@ -67,7 +67,6 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
   
  <tr style="border: none;">
       <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/9b8084b4def99361dbedbb20e3b37b5dd6670d39/students/Alex/pic/%E7%85%A7%E7%89%87.jpg?raw=true" width="200"></a></td>
-   <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Charlo/index"><img alt="Charlo" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/e9c7c551dd7f1ec16c7bbffcf909c000d000174e/students/Charlo/%E7%85%A7%E7%89%87%202021_6_4%2023_14_56.png?raw=true" width="200"></a></td>
     <td style="border: none;"><a href="https://jiayiny.wixsite.com/mysite"><img alt="Hannah" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Hannah/%E6%B1%89%E5%A8%9C%E6%9C%AC%E4%BA%BA.jpg?raw=true" width="200"></a></td>  
    <td style="border: none;"><a href="https://github.com/steenblikrs/2021-Spring-Studio/blob/81b12cb470d56e2d9feda48236a1a00ed895d5ac/students/Rita/index.md"><img alt="Rita" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/5a300180500f0cdde7fa461c55560250344cfdf2/students/Rita/Rita1111.jpg?raw=true" width="200"></a></td>
      </tr>
