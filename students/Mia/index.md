@@ -4,9 +4,8 @@
 A junior student from Wenzhou-Kean University, Michael Graves College, School of Public Architecture.
  <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210304194711.jpg?raw=true" width="300">
   <br>  <br> 
-### Sketch for OASIS STITCHING
 
-
+**Sketch for OASIS STITCHING**
  <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/"><img alt="Photo of OASIS STITCHING" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210402133134.jpg?raw=true" width="300"></a></td>
 <br>  <br> 
 <br>  <br>
@@ -56,7 +55,7 @@ Group Member: Rose, Mia, Matthew
 #### Blog Post
 [OASIS STITCHING](https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/)
 
- <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210604110614.png?raw=true" width="300">
+ <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/3.png?raw=true" width="300">
  
  #### Photosphere
  
