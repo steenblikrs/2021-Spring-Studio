@@ -85,8 +85,9 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
     <td style="border: none;"><a href="https://jiayuq.wixsite.com/website-1"><img alt="Kristen" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Kristen/Kristen.png?raw=true" width="200"></a></td>
   </tr><tr style="border: none;">
   <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
-  <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
+  <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Grace</b></a></td>
        <td style="border: none;"><a href="https://jiayuq.wixsite.com/website-1"><b>Kristen</b></a></td>
+  
       
      
   </tr>
