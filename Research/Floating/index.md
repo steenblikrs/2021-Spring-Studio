@@ -13,7 +13,7 @@ In support of UN-Habitat’s New Urban Agenda, OCEANIX CITY is a vision for the 
 SFER IK Museion 是一个跨学科的创意领域，包括一些世界上最优秀的视觉艺术家的展览、尖端的手工工作室和创新的艺术家驻地，专注于跨学科项目，以新的方式体验和创造艺术。<br><br>
 
 <img alt="research" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Floating/gif3.gif?raw=true" width="300">                 
-<img alt="research" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Floating/gif.gif?raw=true" width="300"><br>   
+<img alt="research" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Floating/gif.gif?raw=true" width="300">  
 <img alt="research" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Floating/s1.jpg?raw=true" width="500"><br><br>
 We used some artificial intelligence applications like Deepart to  create some randomly synthesized images as our inspiration.<br><br>
 我们使用了一些人工智能应用程序，如 Depart 来创建一些随机合成的图像作为我们的灵感。<br><br><br>
@@ -36,8 +36,14 @@ Aiming to create a floating city with more convenient transportation, to achiev
 Traditional cities are often dense, and it is generally difficult to make overall renewal adjustments. Floating city can realize the spatial effect of resetting the entire area, such as demolishing and renewing a part of the building block, and implanting an incompletely grounded new building from the sky to increase and improve the urban function.<br><br>
 我们旨在创建一个交通更便捷的浮动城市，实现垂直和水平的便捷交通。创建了空中步行系统之后，人们可以实现仅在某个区域内工作，学习和娱乐活动，从而提高人们的生活效率。传统城市通常很密集，通常很难进行整体更新调整。浮动城市可以实现重置整个区域的空间效果，例如拆除和更新部分建筑，以及将不完全接地的新建筑物从空中植入，以增强和改善城市功能。<br><br><br><br>
 
-<iframe src="https://youtu.be/T-6BbnmJKG8/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-6BbnmJKG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br><br>
+
+## Personal Website ##
+<img alt="research" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Floating/c2.png?raw=true" width="100"><br><br>
+Cai Nuoying 蔡诺滢 （Rachel)<br><br>
+<img alt="research" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Floating/c1.png?raw=true" width="100"><br><br>
+Qi Jiayu 戚佳煜 （Kristen)<br><br>
 
 
 
