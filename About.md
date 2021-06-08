@@ -109,14 +109,14 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
   </tr>
 
   <tr style="border: none;">
-    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/index"><img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a24c31c627a1ef6f747f4c9dae0faccae58f34f/students/Huey/picture/WIN_20210305_00_29_25_Pro%20(2).jpg?raw=true" width="200"></a></td>
+    <td style="border: none;"><a href="https://xiuyuanr.wixsite.com/website/work"><img alt="Huey" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a24c31c627a1ef6f747f4c9dae0faccae58f34f/students/Huey/picture/WIN_20210305_00_29_25_Pro%20(2).jpg?raw=true" width="200"></a></td>
 
 </tr>     
      
     
   
   <tr style="border: none;">
-    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/index"><b>Huey</b></a></td>
+    <td style="border: none;"><a href="https://xiuyuanr.wixsite.com/website/work"><b>Huey</b></a></td>
 
   </tr>   
    </table>
