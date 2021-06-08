@@ -1,20 +1,16 @@
 
-<strong>[Sarry Dong Zhiling](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/me)<strong>
+# <strong>[Sarry Dong Zhiling](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/me)<strong>
+ 
+## [Portfolio](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/portfolio)
+
+## [Internship](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/internship)
  <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aF9cKedBpz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br>
  <br>
- 
-[Portfolio](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/portfolio)
  <br>
-[Studio Work](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/studiowork)
- <br>
-[Internship](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/internship)
- <br>
-[Spline](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/spline)
- <br>
- <br>
-**PROJECTS** <br>
+<strong>PROJECTS<strong> <br>
+  <br>
 <table>
 <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/studiowork">
          <img alt="1" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/Files/cover%201.jpg?raw=true" width="620"></a>
