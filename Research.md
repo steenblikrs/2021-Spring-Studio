@@ -52,10 +52,12 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
   </td>
 <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">
          <img alt="CJ" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/99cfba627b49905c7b81633513a23f7a9d889347/students/CJ/322121.jpg" width="300"></a></td>
-         </td>
+</td>
 <td style="border: none;"><a href="https://2021springarchstudiowork.cargo.site/">
-         <img alt="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Rita%26Erin/Untitled-2.gif?raw=tru" width="250"></a></td>
+         <img alt="Rita & Erin" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Rita%26Erin/Untitled-2.gif?raw=tru" width="250"></a></td>
 </tr>
+
+<tr style="border: none;">
 <td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">Folding Community</a></strong>  <br/>By <a href="https://chunjiew.wordpress.com">CJ Wang</a>
   <td style="border: none;"><strong><a href="https://2021springarchstudiowork.cargo.site/">Virtual Civilization Mounument</a></strong><br/>    
 by: <a href="https://httprita.cargo.site/">Rita</a>& <a href="https://yiyanglll.cargo.site/">Erin.</a><br/>
