@@ -38,7 +38,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 </tr>
  
 <tr style="border: none;">
-<td style="border: none;"><strong><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1">Arcology</a>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a></strong> 
+<td style="border: none;"><strong><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1">Arcology</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a> 
 </td>
 <td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">OASIS STITCHING</a></strong>  
 <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a> 
