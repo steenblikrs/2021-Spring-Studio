@@ -11,6 +11,9 @@
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index">
          <img alt="Floating_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Floating/sky%20city.jpg" width="190"></a>
       </td>
+    <td><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">
+         <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/3.png?raw=true"></a>
+      </td>
    </tr>
   <tr>
     <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/">Porocity</a></strong>  <br/>By LYLA+ERIN+HANNAH
@@ -25,6 +28,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
       <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Kristen/index">Kristen</a></br>
       Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">Sky City</a>, and 
       <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star War.
+      <td><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">OASIS STITCHING</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a> 
     </td>
     </tr>
 </table>
