@@ -51,7 +51,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 <tr style="border: none;">
   </td>
 <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">
-         <img alt="STAFFORD PROJECTS" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stafford%20Research/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210608132711.png" width="250"></a></td>
+         <img alt="CJ" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/99cfba627b49905c7b81633513a23f7a9d889347/students/CJ/322121.jpg" width="250"></a></td>
 </tr>
 <td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">Folding Community</a></strong>  <br/>By <a href="https://chunjiew.wordpress.com">CJ Wang</a>
 </td>
