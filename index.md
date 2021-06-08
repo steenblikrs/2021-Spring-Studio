@@ -1,36 +1,3 @@
-!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  padding: 25px;
-  background-color: white;
-  color: black;
-  font-size: 25px;
-}
-
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-</style>
-</head>
-<body>
-
-<h2>Toggle Dark/Light Mode</h2>
-<p>Click the button to toggle between dark and light mode for this page.</p>
-
-<button onclick="myFunction()">Toggle dark mode</button>
-
-<script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script>
-
- 
 **[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
 
 [![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net)
@@ -45,8 +12,5 @@ Yet when considering purpose built cities, should we only consider built ones? C
 
 Much of what drives design are performative aspects of the outcomes, yet if we are only driven by the utilitarian requirements, we will never allow ourselves the opportunity to imagine alternatives. By pushing beyond what is possible we enable new possibilities for the future. This can be referred to as the development of possible futures. This studio builds on the heritage of the digital studios pioneered by Bernard Tschumi. We see the legacy of that effort going on to create such projects as the digital Guggenheim, New City, and has even influenced Hollywood world building see examples from Alex McDowell and the World Building Media Lab at the University of Southern California. Yet this is not the only lineage of computation influencing the future of urban conceptions. We have seen, particularly in the last ten years, the influence of computational methods such as parametric, procedural, and machine learning rework the possibilities of creativity to incorporate computation as a collaborator. Beyond those technical aspects driving creativity and innovation there are other stirrings including more cultural ones such as the post-digital movement which has worked to flatten and colorize predominant conceptions of our future.
 
- 
-</body>
-</html>
  
 
