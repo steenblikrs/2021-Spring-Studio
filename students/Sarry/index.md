@@ -14,7 +14,7 @@
 <table>
 <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/studiowork">
          <img alt="1" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/Files/cover%201.jpg?raw=true" width="620"></a>
-     
+      </td>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/3Dengine">
          <img alt="2" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/Files/cover%203.jpg?raw=true" width="300"></a>
       </td>
