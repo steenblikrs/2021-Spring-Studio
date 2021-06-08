@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+background-color: white;
+}
+</style>
+</head>
+ 
 **[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
 
 [![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net)
