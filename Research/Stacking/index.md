@@ -5,8 +5,11 @@
 ### History
 History: Stacking house
 Stackable homes: In the movie, in 2045, the economic crisis, the energy crisis, and the cyber crisis have turned the world into a world of slums. Watts makes his real-world home in a dystopian version of Columbus, where mobile homes are layered on top of each other to form “the Stacks” --made up of steel frames and shipping containers. About this concept, it can be dated back to the beginning of 20th century.
-
-
+<br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1909-theorem.jpg?raw=true" width="300">
+<br><br><br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1960-Nakagin%20Capsule%20Tower.jpg?raw=true" width="300">
+<br><br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1981-Site,%20High%20rise%20of%20homes-2.jpg?raw=true" width="300">
+<br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/2017-micro%20housing-1.jpg?raw=true" width="300">
+<br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/2017-micro%20housing-2.jpg?raw=true" width="300">
 
 ### Theoretical
 #### The Vertical Village
