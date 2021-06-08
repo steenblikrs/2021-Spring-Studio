@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity">
-         <img alt="Porocity_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Porocity/cover_picture.jpg"></a>
+         <img alt="Porocity_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Porocity/cover_picture.jpg" width="265"></a>
       </td>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">
          <img alt="The Stacks" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stacking/rpo-c.jpg" width="265"></a>
@@ -34,11 +34,14 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
     
     
 <tr style="border: none;"> 
-  <td style="border: none;"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1"><img alt="Arcology" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/17dd4bdb6708a00654a5e05b3cfdec8bce286c9a/students/Alex/pic/a22.jpg" width="350"></a></td>
+  <td style="border: none;"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1"><img alt="Arcology" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/17dd4bdb6708a00654a5e05b3cfdec8bce286c9a/students/Alex/pic/a22.jpg" width="250"></a></td>
     </tr>
  
   <tr style="border: none;">
  <td><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1">Arcology</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a> 
+   
+   </td>
+   </tr>
     
     
     
