@@ -30,7 +30,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
     
     
 <tr style="border: none;"> 
-<td style="border: none;"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1"><img alt="Arcology" src="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/pic/a22.jpg" width="250"></a>
+<td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><img alt="Arcology" src="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/pic/a22.jpg" width="250"></a>
 </td>
 <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">
          <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/3.png?raw=true" width="250"></a>
@@ -38,7 +38,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 </tr>
  
 <tr style="border: none;">
-<td style="border: none;"><strong><a href="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000&slide=id.p1">Arcology</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a> 
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Mars Parkour</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a> and <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index">Ted</a>
 </td>
 <td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">OASIS STITCHING</a></strong>  
 <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a> 
