@@ -47,7 +47,14 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a></td>
 <td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">REBORN TOMB</a></strong>  <br/>
   <br/>By <a href="https://dvcwskbmei.mobirisesite.com/">Stafford</a></td>
-
+  
+<tr style="border: none;">
+  </td>
+<td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">
+         <img alt="STAFFORD PROJECTS" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stafford%20Research/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210608132711.png" width="250"></a></td>
+</tr>
+<td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">Folding Community</a></strong>  <br/>By <a href="https://chunjiew.wordpress.com">CJ Wang</a>
+</td>
 </tr>
 </table>
 
