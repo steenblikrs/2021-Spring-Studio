@@ -27,28 +27,25 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
       <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star War.
 </td>
 </tr>
-<table style="width:100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">
-         <img alt="STAFFORD PROJECTS" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stafford%20Research/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210608132711.png" width="265"></a>
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">REBORN TOMB</a></strong>  <br/>
-  <br/>By <a href="https://dvcwskbmei.mobirisesite.com/">Stafford</a>
-</td>
-</tr>   
+
 <tr style="border: none;"> 
 <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><img alt="Arcology" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/01.gif?raw=true" width="250"></a>
 </td>
 <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">
          <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/3.png?raw=true" width="250"></a>
-</td>         
+</td>
+<td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">
+         <img alt="STAFFORD PROJECTS" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stafford%20Research/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210608132711.png" width="250"></a></td>
 </tr>
  
 <tr style="border: none;">
 <td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Mars Parkour</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a> & <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index">Ted</a>
 </td>
 <td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">OASIS STITCHING</a></strong>  
-<br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a> 
-</td>
+<br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a></td>
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">REBORN TOMB</a></strong>  <br/>
+  <br/>By <a href="https://dvcwskbmei.mobirisesite.com/">Stafford</a></td>
+
 </tr>
 </table>
 
