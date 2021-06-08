@@ -35,7 +35,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
          <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/3.png?raw=true" width="250"></a>
 </td>
 <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">
-         <img alt="STAFFORD PROJECTS" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stafford%20Research/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210608132711.png" width="250"></a></td>
+         <img alt="STAFFORD PROJECTS" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stafford%20Research/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210608132711.png" width="250"></a></td>
 </tr>
  
 <tr style="border: none;">
