@@ -13,8 +13,5 @@
 
 <br><img alt="rep" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages//students/Sarry/33.gif?raw=true" width="700">
   
-  
-  <br> <br>
-[Sarry Website Homepage](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index)
   <br> <br>
 [Sarry Website Homepage](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index)
