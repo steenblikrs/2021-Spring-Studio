@@ -43,24 +43,24 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
 
 ### Project 3: OASIS STITCHING
 
-**1..Blog Post**
+**I.Blog Post**
 
 [OASIS STITCHING](https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/)
 
  <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/3.png?raw=true" width="300">
 
-**2.Group Research**
+**II.Group Research**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFZBByfOtmo5Fjg3IH3JVLAP-evgwgHwgrndNDJupiqVEhnfSP39-oUPhCajv0GNKuQRKObw0FTsGB/embed?start=true&loop=true&delayms=3000" frameborder="0" width="649" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Group Member: Rose, Mia, Matthew
 
-**3.Collages**
+**III.Collages**
 
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/Zhou%20Rui%20A04%20gif.gif?raw=true" width="300">
 
 
-**4.Photosphere**
+**IX.Photosphere**
  
  <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Mia/%25E5%25BE%25AE%25E4%25BF%25A1%25E5%259B%25BE%25E7%2589%2587_20210607163451.jpg&autoLoad=true"></iframe>
 
