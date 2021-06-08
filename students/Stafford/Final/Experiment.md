@@ -32,10 +32,6 @@
 <img alt="rep" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/Trial/Components.gif?raw=true" width="300">
 <br>
 <strong>ANIMATION</strong>
- <br>
- [REBORN TOMB](https://www.youtube.com/watch?v=rl139z79WKI&list=PLcuUYa3FA_ejZMAtBNkN_NZVLdSl8lVjB&index=2) 
-  <br>
- [CLOUD CITY](https://www.youtube.com/watch?v=E7mY8IJuwqc)
   <br>
   <br>
 <strong>SPLINE</strong>
