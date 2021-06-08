@@ -4,6 +4,13 @@
 A junior student from Wenzhou-Kean University, Michael Graves College, School of Public Architecture.
  <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210304194711.jpg?raw=true" width="300">
   <br>  <br> 
+### Sketch for OASIS STITCHING
+
+
+ <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/"><img alt="Photo of OASIS STITCHING" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210402133134.jpg?raw=true" width="300"></a></td>
+<br>  <br> 
+<br>  <br>
+
 **More Information** 
  <br>  <br> 
  [Reseme](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/resume.png?raw=true)
@@ -32,6 +39,7 @@ A junior student from Wenzhou-Kean University, Michael Graves College, School of
 
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/%E6%9C%AA%E5%91%BD%E5%90%8D-42.png?raw=true" width="300">
 <img alt="Mia" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/Gif.gif?raw=true" width="300">
+
 
 <br>  <br> 
 <br>  <br>
