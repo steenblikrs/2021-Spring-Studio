@@ -25,7 +25,7 @@
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/spline">
          <img alt="3" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/Files/cover%202.jpg?raw=true" width="400"></a>
       </td>
-  <tr> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/studiowork/">Urban Redesign</a></strong>  <br/>Connect old Suzhou House and extend circulation to solve problems of density.
+  <tr> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/studiowork">Urban Redesign</a></strong>  <br/>Connect old Suzhou House and extend circulation to solve problems of density.
     </td>
     <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/3Dengine">Fairy Tale Tree</a></strong><br/>    
 A combination of my studio work in different semesters. They are all built on a endless tree.</td>
