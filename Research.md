@@ -38,7 +38,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 </tr>
  
 <tr style="border: none;">
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Mars Parkour</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a> and <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index">Ted</a>
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Mars Parkour</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a> & <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index">Ted</a>
 </td>
 <td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">OASIS STITCHING</a></strong>  
 <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a> 
