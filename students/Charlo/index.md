@@ -9,4 +9,5 @@ Junior architecture students from Wenzhou-Kean University, Michael Graves Colleg
 <br/>
 
 ## Project
-To be completed
+[The Tower](https://nakiricharlo.wordpress.com)
+<br/>
