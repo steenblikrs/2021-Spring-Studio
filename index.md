@@ -14,3 +14,7 @@ Much of what drives design are performative aspects of the outcomes, yet if we a
 
  
 
+
+
+minima:
+  skin: dark
