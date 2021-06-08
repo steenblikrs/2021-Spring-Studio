@@ -1,7 +1,7 @@
 # Experiment
 
 <br>
-<strong>MOVE MOUTH TO THE WINDOW TO START GAME</strong>
+<strong>ZOOM OUT AND WAIT FOR GAME TO START</strong>
 <br>
 <iframe src="https://i.simmer.io/@Yixin/holy-land" style="width:960px;height:600px;border:0"></iframe>
 <br>
