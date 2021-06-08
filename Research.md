@@ -20,7 +20,7 @@ https://yiyanglll.cargo.site/">ERIN</a>
 by: <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index">Carol</a>, <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index">Corina</a>, & <a href="https://zmrflora.github.io/Portfolio/">Flora</a><br/>
 Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(film)">Ready Player One</a>, and including historical examples such as the 
       <a href="https://www.mvrdv.nl/projects/13/vertical-village">Vertical Village</a> and <a href="https://thewhyfactory.com/project/wego-tailor-made-housing">Wego City.</a></td>
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index">Floating</a></strong>  </br>
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index">Floating</a></strong>  
       By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index">Sarry</a>, 
       <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Rachel/index">Rachel</a>, 
       <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Kristen/index">Kristen</a></br>
