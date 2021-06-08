@@ -77,30 +77,29 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
   <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Charlo/index"><b>Charlo</b></a></td>
   <td style="border: none;"><a href="https://jiayiny.wixsite.com/mysite"><b>Hannah</b></a></td>
   <td style="border: none;"><a href="https://github.com/steenblikrs/2021-Spring-Studio/blob/81b12cb470d56e2d9feda48236a1a00ed895d5ac/students/Rita/index.md"><b>Rita</b></a></td>
-  
+ </tr>  
    
   <tr style="border: none;">
     <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com/"><img alt="Stafford" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Stafford/xjpic%202.jpeg?raw=true" width="180"></a></td>
     <td style="border: none;"><a href="https://gracelll00.cargo.site"><img alt="Grace" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Grace/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210607171954.jpg?raw=true" width="200"></a></td>
     <td style="border: none;"><a href="https://jiayuq.wixsite.com/website-1"><img alt="Kristen" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Kristen/Kristen.png?raw=true" width="200"></a></td>
     <td style="border: none;"><a href="https://xiaotongshishannon.cargo.site"><img alt="Shannon" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Shannon/9f10e809a986ba45651037c99884a8b.jpg" width="200"></a></td>
-      </tr><tr style="border: none;">
+      </tr>
+  <tr style="border: none;">
   <td style="border: none;"><a href="https://dvcwskbmei.mobirisesite.com"><b>Stafford</b></a></td>
   <td style="border: none;"><a href="https://gracelll00.cargo.site"><b>Grace</b></a></td>
   <td style="border: none;"><a href="https://jiayuq.wixsite.com/website-1"><b>Kristen</b></a></td>
   <td style="border: none;"><a href="https://xiaotongshishannon.cargo.site"><b>Shannon</b></a></td>
-      
+  </tr>    
   
    <tr style="border: none;">
     <td style="border: none;"><a href="https://nuoyingc.wixsite.com/web1"><img alt="Rachel" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Rachel/照片.png?raw=true" width="200"></a></td>
+</tr>     
      
-     
-     <td style="border: none;"><a href="https://nuoyingc.wixsite.com/web1"><b>Rachel</b></a></td>
+    
   
   <tr style="border: none;">
-    <td style="border: none;">
-      
-      
+    <td style="border: none;"><a href="https://nuoyingc.wixsite.com/web1"><b>Rachel</b></a></td>
   </tr>
    
    </table>
