@@ -7,14 +7,14 @@ History: Stacking house
 Stackable homes: In the movie, in 2045, the economic crisis, the energy crisis, and the cyber crisis have turned the world into a world of slums. Watts makes his real-world home in a dystopian version of Columbus, where mobile homes are layered on top of each other to form “the Stacks” --made up of steel frames and shipping containers. About this concept, it can be dated back to the beginning of 20th century.
 <br>
 **1909 theorem**<br>
-<br>< img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1909-theorem.jpg?raw=true" width="300"><br>
+<br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1909-theorem.jpg?raw=true" width="300"><br>
 In this figure, Rem koolhaas showed an eighty-four stories, high steel framework or a “rack” that could produce unlimited numbers of sites stacked on a single plot. Each of the sites independent from one another as if it is isolated. It proposed a new conception of relationships between the parts and the whole. From the perpective of the urban, this meant that particular plot could no longer be matched with a concrete purpose and function.<br>
 **1960: Nakagin Capsule Tower**<br>
-<br>< img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1960-Nakagin%20Capsule%20Tower.jpg?raw=true" width="300"><br>
+<br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1960-Nakagin%20Capsule%20Tower.jpg?raw=true" width="300"><br>
 After World War II, Japanese used “Metabolism” to describe their beliefs about how buildings and cities should be designed, mimic a living being.A well-known example of Metabolism in architecture is Kurokawa's Nakagin Capsule Tower in Tokyo. They used concrete as structure to separate different units.<br>
 
 **1981: SITE, High-Rise of Homes**<br>
-<br>< img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1981-Site,%20High%20rise%20of%20homes-2.jpg?raw=true" width="300"><br>
+<br><img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1981-Site,%20High%20rise%20of%20homes-2.jpg?raw=true" width="300"><br>
 This housing structure offers apartment residence a unique advantages of garden space and personalized architectural identity in a multi-story apartment. The building is a steel and concrete matrix supporting a vertical community.
 
 ### Theoretical
