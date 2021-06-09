@@ -15,7 +15,7 @@ After World War II, Japanese used “Metabolism” to describe their beliefs abo
 
 **1981: SITE, High-Rise of Homes**<br>
 <br>< img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/1981-Site,%20High%20rise%20of%20homes-2.jpg?raw=true" width="300"><br>
-This housing structure offers apartment residence a unique advantages of garden space and personalized architectural identity in a multi-story apartment. The building is a steel and concrete matrix supporting a vertical commun
+This housing structure offers apartment residence a unique advantages of garden space and personalized architectural identity in a multi-story apartment. The building is a steel and concrete matrix supporting a vertical community.
 
 ### Theoretical
 #### The Vertical Village
