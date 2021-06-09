@@ -70,11 +70,11 @@ The tower is divided into four separate masses, literally called “vertical vil
 
 ### Collages
 #### Carol
-<br>
+<img alt="Carol's Collage" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/Xing_Lihong_Lecture02.gif?raw=true" width="250">
 
 #### Corina
-<br>
 <img alt="Corina's Collage" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Stacking/99.gif?raw=true" width="250"><br>
+
 #### Flora
 <img alt="Flora's Collage" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Flora-rep-gif.gif?raw=true" width="250"><br>
 
