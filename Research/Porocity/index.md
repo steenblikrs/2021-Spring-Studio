@@ -131,20 +131,36 @@ Digital materials**
 **Discreteness & Automation**
 <br><br>
 Use robotic to connect discrete architecture and construction
-<br><br>
+<br>
 Can accelerate the process to assemble the architectural system
-<br><br>
+<br>
 Semblr, a project developed by Ivo Tedbury, proposes a distributed robot
-<br><br>
+<br>
 <img alt="Discreteness & Automation" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/23.jpg" width="500">
 <br><br><br>
 
-**RAISE BY GOODWIN**
+**Contrast** Discrete vs Process
 <br><br>
-Goodwin has found “what a building desires” to do next in its determination to facilitate new technologies, new building-to-building connections and demands on its program.
+_Discrete_
+<br>
+Involves using specifications to achieve a specific product
+<br>
+The parts that produced are called components
+<br>
+There has a database of holding serials numbers
+<br>
+<img alt="Discrete" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/24.jpg" width="500">
 <br><br>
-<img alt="RAISE BY GOODWIN" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/3.jpg" width="800">
+_Process_
+<br>
+Involves mass production of parts that are cut from the same material
+<br>
+The products can be resting on a shelf ready for customers to purchase
+<br>
+the example can be bricks, steel and concrete blocks
 <br><br>
+<img alt="Process" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/25.png" width="500">
+<br><br><br>
 
 **LEGO-LIKE WOODEN PAVILION** BY GILLES RETSIN
 <br><br>
