@@ -176,8 +176,8 @@ The digital workflow behind the pavilion enables a low-cost, fast and open produ
 <br>
 <img alt="LEGO-LIKE WOODEN PAVILION" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/26.jpg" width="1000">
 <br>
-<img alt="LEGO-LIKE WOODEN PAVILION" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/27.jpg" width="1000">
-<img alt="LEGO-LIKE WOODEN PAVILION" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/28jpg" width="1000">
+<img alt="LEGO-LIKE WOODEN PAVILION" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/27.jpg" width="500">
+<img alt="LEGO-LIKE WOODEN PAVILION" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/28jpg" width="500">
 <br><br><br>
 
 
