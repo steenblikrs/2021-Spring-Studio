@@ -14,32 +14,33 @@ Our current cities are comprised of enclosed, distant and introverted architectu
 
 #### HISTOTICAL RESEARCH
 <br>
+<br>
 **THE ARCADES** PROJECT by Walter Benjamin
-<br>
+<br><br>
 No previous articulation of the porous nature of architecture however, has ever conceived of or classified a type of architectural permeability, which has arteries of a new classification of space. This new type of space is between public and private
-<br>
+<br><br>
 <img alt="THE ARCADES" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/1.jpg" width="500">
 <br><br>
 
 
 **THE LEAP INTO THE VOID** PROJECT by Ives Klein
-<br>
+<br><br>
 When Ives Klein performed “The Leap into the Void” in 1967, from a brick wall adjacent to the street, he rendered the architecture impotent in relation to the act. In other words, architecture, although deemed solid and eternally strong is actually very weak and plastic by comparison with the idea as represented through a performance.
-<br>
+<br><br>
 <img alt="THE LEAP INTO THE VOID" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/2.jpg" width="500">
 <br><br>
 
 **RAISE BY GOODWIN**
-<br>
+<br><br>
 Goodwin has found “what a building desires” to do next in its determination to facilitate new technologies, new building-to-building connections and demands on its program.
-<br>
+<br><br>
 <img alt="RAISE BY GOODWIN" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/3.jpg" width="800">
 <br><br>
 
 **POROCITY** BY THE WHY FACTORY
-<br>
+<br><br>
 Goodwin has found “what a building desires” to do next in its determination to facilitate new technologies, new building-to-building connections and demands on its program.
-<br>
+<br><br>
 <img alt="POROCITY" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/4.jpg" width="1000">
 <br><br>
 
