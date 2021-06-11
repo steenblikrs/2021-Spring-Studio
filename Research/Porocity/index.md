@@ -12,7 +12,7 @@ Our current cities are comprised of enclosed, distant and introverted architectu
 <br>
 <br>
 
-#### HISTOTICAL RESEARCH
+### HISTOTICAL RESEARCH
 <br>
 <br>
 **THE ARCADES** PROJECT by Walter Benjamin
@@ -42,9 +42,63 @@ Goodwin has found “what a building desires” to do next in its determination 
 Goodwin has found “what a building desires” to do next in its determination to facilitate new technologies, new building-to-building connections and demands on its program.
 <br><br>
 <img alt="POROCITY" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/4.jpg" width="1000">
+<br><br><br>
+
+### TECHNICAL ASPECT OF THE CITY
+<br>
+<br>
+**-Aesthetics**
+<br>
+**-Sliced Porosity Block**
+<br>
+**-Method of calculating "porocity"**
+
+
+
+**Aesthetics**
+<br><br>
+Porosity can be understood as a medium: they allow substances to pass through, such as ensuring photosynthesis of plants and human sweating. Therefore, from the urban perspective, porosity is essential for maintaining health and sustainability. They are built-in media that regulate circulation and exchange, balance inequality and ensure the sustainability of cities.
+<br><br>
+<img alt="Aesthetics" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/11.jpg" width="300">
+<img alt="Aesthetics" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/12.jpg" width="500">
 <br><br>
 
+**Sliced Porosity Block**
+<br><br>
+-Sliced Porosity Block 
+<br> 
+-Steven Holl 
+<br>
+-Chengdu
+<br><br>
+A public square composed of five towers, but still considered more public area
+<br>
+Urban skyscrapers
+<br>
+Porosity calculated by precise solar angle geometry
+<br>
+Minimal impact on surrounding urban space
+<br><br>
+<img alt="Sliced Porosity Block" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/14.jpg" width="500">
+<img alt="Sliced Porosity Block" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/15.jpg" width="500">
+<br>
+<img alt="Sliced Porosity Block" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/16.jpg" width="500">
+<img alt="Sliced Porosity Block" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/17.jpg" width="500">
+<br>
+<img alt="Sliced Porosity Block" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/18.jpg" width="500">
+<img alt="Sliced Porosity Block" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/19.jpg" width="500">
+<br><br>
 
+**Method of calculating "porocity"**
+<br><br>
+**VOXEL**
+<br><br>
+In 3D computer graphics, a voxel represents a value on a regular grid in three-dimensional space. As with pixels in a 2D bitmap, voxels themselves do not typically have their position (ie coordinates) explicitly encoded with their values. Instead, rendering systems infer the position of a voxel based upon its position relative to other voxels.
+<br><br>
+<img alt="Method of calculating "porocity" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/20.jpg" width="1000">
+<br>
+<img alt="Method of calculating "porocity" src="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/21.jpg" width="1000">
+<br><br>
 
 
 
