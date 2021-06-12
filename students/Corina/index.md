@@ -8,7 +8,7 @@
  [Portfolio](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Pro)
 ## Selected Work 
 **2021 Spring** <br>
-[Studio website](https://corinazhang.wordpress.com/)
+[Studio website](https://corinazhang.wordpress.com/)<br>
 [Final Project](https://w03travelstudio.wordpress.com/2021/05/05/connectedness/)
  <br>Group Work  [Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
