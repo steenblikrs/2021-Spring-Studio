@@ -6,10 +6,10 @@
 **More Information** 
 
  [Portfolio](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/Pro)
-
 ## Selected Work 
 **2021 Spring** <br>
 [Studio website](https://corinazhang.wordpress.com/)
+[Final Project](https://w03travelstudio.wordpress.com/2021/05/05/connectedness/)
  <br>Group Work  [Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
  City Conditions  [City Problem Analysis](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/City)
@@ -27,7 +27,7 @@
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/P">
          <img alt="3" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Corina/P3.jpg?raw=true" width="620"></a>
       </td>
-  <tr> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S/">2020 Spring</a></strong>  <br/>Project: Culinary School-School Factory. Location: Yantai, China.
+  <tr> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020S">2020 Spring</a></strong>  <br/>Project: Culinary School-School Factory. Location: Yantai, China.
     </td>
     <td><strong><a href="https://https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/2020F">2020 Fall</a></strong><br/>    
 Heterotic Architecture-Hybrid Buildings: Island Leisure Park. Location: Wenzhou, China.</td>
