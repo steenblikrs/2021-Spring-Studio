@@ -7,7 +7,7 @@
     <td style="border: none;"><iframe width="400" height="225" src="https://www.youtube.com/embed/FfJufym5b-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr><tr style="border: none;">
     <td style="border: none;"><iframe width="400" height="225" src="https://www.youtube.com/embed/iwmhc-7k23k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VYym83hfKxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td style="border: none;"><iframe width="400" height="225" src="https://www.youtube.com/embed/VYym83hfKxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
 
    <tr style="border: none;">
