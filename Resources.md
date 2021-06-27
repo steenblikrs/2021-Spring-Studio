@@ -70,6 +70,8 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 
 [Creative Adversarial Networks (CAN) and artificial intelligence as artist](https://medium.com/can-artificial-intelligence-can-be-an-artist/creative-adversarial-networks-can-and-artificial-intelligence-as-artist-fd8a33181c33)
 
+[TenorFlow Tutorial](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb#scrollTo=jo5PziEC4hWs)
+
 [Runwayml.com](app.runwayml.com)[(Tutorial)](https://medium.com/aixdesign/dreaming-up-imaginary-landscapes-with-runway-ml-b8eb95df2abe)
 
 [artbreeder](https://www.artbreeder.com/)
