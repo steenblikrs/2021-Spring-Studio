@@ -50,7 +50,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 <tr style="border: none;">
   
 <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">
-         <img alt="CJ" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/99cfba627b49905c7b81633513a23f7a9d889347/students/CJ/322121.jpg" width="300"></a></td>
+         <img alt="CJ" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/99cfba627b49905c7b81633513a23f7a9d889347/students/CJ/322121.jpg" width="300"></a></td>
 
 <td style="border: none;"><a href="https://2021springarchstudiowork.cargo.site/">
          <img alt="Rita & Erin" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Rita%26Erin/Untitled-2.gif?raw=tru" width="250"></a></td>
