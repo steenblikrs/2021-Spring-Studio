@@ -25,9 +25,9 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 <td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index">Floating</a></strong>  
       By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index">Sarry</a>, 
       <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Rachel/index">Rachel</a>, 
-      <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Kristen/index">Kristen</a></br>
-      Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">Sky City</a>, and 
-      <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star Wars.</td>
+      <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Kristen/index">Kristen</a><br>
+      Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">Sky City</a>, <br>
+  and <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star Wars.</td>
 </tr>
 
 <tr style="border: none;"><td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><img alt="Mars Parkour" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/01.gif?raw=true" width="250"></a></td>
