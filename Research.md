@@ -29,7 +29,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
       <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star Wars.</td>
 </tr>
 
-<td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><img alt="Mars Parkour" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/01.gif?raw=true" width="250"></a></td>
+<tr style="border: none;"><td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><img alt="Mars Parkour" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/01.gif?raw=true" width="250"></a></td>
   
 <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">
          <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Mia/3.png?raw=true" width="250"></a>
@@ -45,7 +45,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 <td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">OASIS STITCHING</a></strong>  
 <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a></td>
 <td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">REBORN TOMB</a></strong>  <br/>
-  <br/>By <a href="https://dvcwskbmei.mobirisesite.com/">Stafford</a></td>
+  <br/>By <a href="https://dvcwskbmei.mobirisesite.com/">Stafford</a></td></tr>
   
 <tr style="border: none;">
   
@@ -69,23 +69,3 @@ by: <a href="https://httprita.cargo.site/">Rita</a>& <a href="https://yiyanglll.
 <br/>
 
 **[More](https://steenblikrs.github.io/2021-Spring-Studio/)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
