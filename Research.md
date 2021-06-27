@@ -1,5 +1,8 @@
 **Projects** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
 
+
+**Research**
+
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity"><img alt="Porocity_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Porocity/cover_picture.jpg" width="265"></a></td>
@@ -66,17 +69,6 @@ by: <a href="https://httprita.cargo.site/">Rita</a>& <a href="https://yiyanglll.
 <br/>
 
 **[More](https://steenblikrs.github.io/2021-Spring-Studio/)**
-
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
 
 
 
