@@ -23,11 +23,9 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
       <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Rachel/index">Rachel</a>, 
       <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Kristen/index">Kristen</a></br>
       Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">Sky City</a>, and 
-      <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star War.
-</td>
+      <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star Wars.</td>
 </tr>
 
-<tr style="border: none;"> 
 <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index"><img alt="Mars Parkour" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/26c35212d94553c86952c1dbe2a263c99a82f5de/students/Alex/pic/01.gif?raw=true" width="250"></a></td>
   
 <td style="border: none;"><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">
@@ -53,6 +51,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 
 <td style="border: none;"><a href="https://2021springarchstudiowork.cargo.site/">
          <img alt="Rita & Erin" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Rita%26Erin/Untitled-2.gif?raw=tru" width="250"></a></td>
+<td style="border: none;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbMaHjGB0clBZ8iXI7JcFHuVuF1FElVrDrA-gac5hmn6gwlhNOUGgMD0ELDModmtTqCHXWuAswJKx0/embed?start=true&loop=true&delayms=3000" frameborder="0" width="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></td>
 </tr>
 
 <tr style="border: none;">
@@ -60,32 +59,13 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
   <a href="https://chunjiew.wordpress.com">CJ Wang</a></td>
   <td style="border: none;"><strong><a href="https://2021springarchstudiowork.cargo.site/">Virtual Civilization Mounument</a></strong><br/>    
 by: <a href="https://httprita.cargo.site/">Rita</a>& <a href="https://yiyanglll.cargo.site/">Erin.</a></td>
+  <td style="border: none;"><strong>Social Cedits - a Future Hope by Aguilar, Matthew, Rose Research</strong>
 </tr>
 </table>
 
 <br/>
 
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<strong>Spaceship Earth</strong>Ted & Huey
-
-Inspired by the [USC WBML](https://worldbuilding.usc.edu/) "Spaceship Earth 2050". This research is focusing on closed ecosystems such as rotating wheel spaceship, etc.
-
-<strong>Aguilar, Matthew, Rose Research</strong>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbMaHjGB0clBZ8iXI7JcFHuVuF1FElVrDrA-gac5hmn6gwlhNOUGgMD0ELDModmtTqCHXWuAswJKx0/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<br/>
-
-<strong>C.J., Harry, Lance</strong>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNjG565_2GiMWgezXsS_V67huWbOUbBTyfnys6IYD4OlH0Qn7mI8iZMBs5I7zN5w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<br/>
-<br/>
-
-<br>
-**<a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index">City of a Thousand Planets</a>**
-
-
+**[More](https://steenblikrs.github.io/2021-Spring-Studio/)**
 
  <br/>
  <br/>
