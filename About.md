@@ -121,38 +121,12 @@ src="https://github.com/steenblikrs/2021-Spring-Studio/blob/4f0605208ddc773335ea
     <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/index"><b>Huey</b></a></td>
     <td style="border: none;"><a href="https://harrymao2021spingrep.cargo.site/"><b>Harry</b></a></td>
     <td style="border: none;"><a href="https://xiaotongshishannon.cargo.site/"><b>Shannon</b></a></td>
+    <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Matthew/index"><b>Matthew</a></td>
 
   </tr>   
    </table>
   
 
-<br/><br/>
-
-
-<br/><br/>
-
-<br/>
-[Huey](https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/index)
-<br/>
-[Matthew](https://steenblikrs.github.io/2021-Spring-Studio/students/Matthew/index)
-<br/>
-[Erin]()
-<br/>
-[Grace](https://gracelll00.cargo.site/admin/19831973)
-<br/>
-[Lyla](https://lylayaoarchitectural.cargo.site/)
-
-<br/>
-[Luna](https://steenblikrs.github.io/2021-Spring-Studio/students/Luna/index)
-<br/>
-[Shannon](https://xiaotongshishannon.cargo.site/)
-<br/>
-[Stafford](https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Index)
-<br/>
-[CJ](https://steenblikrs.github.io/2021-Spring-Studio/students/CJ/Index)
-<br/>
-**[Charlo](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Charlo/index.md)**
-<br/>
 <br/>
 <br/>
 <br/>
