@@ -12,11 +12,12 @@
 <td style="border: none;"><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index"><img alt="Floating_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Floating/sky%20city.jpg" width="190"></a></td>
 </tr>
 <tr style="border: none;">
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/">Porocity</a></strong>  <br/>By <a href="https://lylayaoarchitectural.cargo.site/">LYLA</a>+<a href="https://jiayiny.wixsite.com/mysite/">HANNAH</a>+<a href="https://yiyanglll.cargo.site/">ERIN</a></td>
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/">Porocity</a></strong>  <br> By 
+  <a href="https://lylayaoarchitectural.cargo.site/">LYLA</a>+<a href="https://jiayiny.wixsite.com/mysite/">HANNAH</a>+<a href="https://yiyanglll.cargo.site/">ERIN</a></td>
   
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">Stacking</a></strong><br/>by: 
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">Stacking</a></strong><br>by: 
   <a href="https://cccarol.cargo.site/">Carol</a>, <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index">Corina</a>, & 
-  <a href="https://zmrflora.github.io/Portfolio/">Flora</a><br/>
+  <a href="https://zmrflora.github.io/Portfolio/">Flora</a><br>
   
 Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(film)">Ready Player One</a>, and including historical examples such as the 
       <a href="https://www.mvrdv.nl/projects/13/vertical-village">Vertical Village</a> and <a href="https://thewhyfactory.com/project/wego-tailor-made-housing">Wego City.</a></td>
@@ -39,12 +40,12 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 </tr>
  
 <tr style="border: none;">
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Mars Parkour</a></strong><br/>By 
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Mars Parkour</a></strong><br>By 
   <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index">Alex</a> & <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Ted/index">Ted</a>
 </td>
 <td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/05/oasis-stitching/">OASIS STITCHING</a></strong>  
 <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index">Mia</a></td>
-<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">REBORN TOMB</a></strong>  <br/>
+<td style="border: none;"><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Final/Projects">REBORN TOMB</a></strong>  <br>
   <br/>By <a href="https://dvcwskbmei.mobirisesite.com/">Stafford</a></td></tr>
   
 <tr style="border: none;">
