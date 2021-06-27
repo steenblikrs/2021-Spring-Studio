@@ -1,4 +1,4 @@
-**[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **Resources**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+**[Projects](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **Resources**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
 
 
 ##### **Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals** ([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html))
