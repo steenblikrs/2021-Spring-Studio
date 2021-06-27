@@ -59,11 +59,11 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 </tr>
 
 <tr style="border: none;">
-<td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">Folding Community</a></strong>  <br/>By 
+<td style="border: none;"><strong><a href="https://w03travelstudio.wordpress.com/2021/05/07/folding-community/">Folding Community</a></strong>  <br>By 
   <a href="https://chunjiew.wordpress.com">CJ Wang</a></td>
   <td style="border: none;"><strong><a href="https://2021springarchstudiowork.cargo.site/">Virtual Civilization Mounument</a></strong><br/>    
 by: <a href="https://httprita.cargo.site/">Rita</a>& <a href="https://yiyanglll.cargo.site/">Erin.</a></td>
-  <td style="border: none;"><strong>Social Cedits - a Future Hope by Aguilar, Matthew, Rose Research</strong>
+  <td style="border: none;"><strong>Social Cedits - a Future Hope by Aguilar, Matthew, Rose Research</strong></td>
 </tr>
 </table>
 
